@@ -139,7 +139,7 @@ graph TD
 
 -----
 
-\<a name="5"\>\</a\>
+<a name="5"></a>
 
 ## 5\. LOGIC CHIẾN LƯỢC GIAO DỊCH (CORE ENGINE & VOTING SYSTEM)
 
@@ -169,7 +169,7 @@ Hệ thống không cộng dồn một cách máy móc, mà sử dụng công th
 
 -----
 
-\<a name="6"\>\</a\>
+<a name="6"></a>
 
 ## 6\. HỆ THỐNG TRÍ TUỆ NHÂN TẠO & MACHINE LEARNING (AI/ML)
 
@@ -196,7 +196,7 @@ Hệ thống không cộng dồn một cách máy móc, mà sử dụng công th
 
 -----
 
-\<a name="7"\>\</a\>
+<a name="7"></a>
 
 ## 7\. HỆ THỐNG BACKTEST & TRỰC QUAN HÓA (PYQT6 DASHBOARD)
 
@@ -210,7 +210,7 @@ KAIROS sở hữu một phần mềm Desktop chuyên dụng được xây dựng
 
 -----
 
-\<a name="8"\>\</a\>
+<a name="8"></a>
 
 ## 8\. QUẢN TRỊ RỦI RO & QUẢN LÝ VỐN (RISK MANAGEMENT)
 
@@ -222,7 +222,7 @@ KAIROS sở hữu một phần mềm Desktop chuyên dụng được xây dựng
 
 -----
 
-\<a name="9"\>\</a\>
+<a name="9"></a>
 
 ## 9\. CẤU TRÚC THƯ MỤC (DIRECTORY TREE)
 
@@ -302,13 +302,13 @@ KAIROS_QUANT_SYSTEM_v2.0/
 
 -----
 
-\<a name="10"\>\</a\>
+<a name="10"></a>
 
 ## 10\. YÊU CẦU & HƯỚNG DẪN CÀI ĐẶT (SETUP INSTRUCTIONS)
 
 *(Phần này dành cho các thông tin cập nhật về môi trường hệ thống và thư viện cài đặt)*
 
-\<a name="11"\>\</a\>
+<a name="11"></a>
 
 ## 11\. HƯỚNG DẪN SỬ DỤNG & CẤU HÌNH (CONFIGURATION & USAGE)
 
@@ -338,7 +338,7 @@ Tiếp theo, điền API Key vào `config/tai_khoan_api.json`. **Lưu ý: Chỉ 
 
 -----
 
-\<a name="12"\>\</a\>
+<a name="12"></a>
 
 ## 12\. LỘ TRÌNH PHÁT TRIỂN TƯƠNG LAI (ROADMAP)
 
@@ -354,7 +354,7 @@ Với vai trò là người thiết kế hệ thống (Kiến trúc sư), địn
 
 -----
 
-\<a name="13"\>\</a\>
+<a name="13"></a>
 
 ## 13\. CẢNH BÁO RỦI RO (DISCLAIMER)
 
