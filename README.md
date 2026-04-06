@@ -240,17 +240,17 @@ KAIROS_QUANT_SYSTEM_v2.0/
 │   ├── tai_khoan_api.json      # Nơi lưu trữ API Key, Secret Key (đã mã hóa)
 │   └── thong_tin_san.yaml      # Thông số kỹ thuật sàn (Min lot, Tick size, Leverage)
 │
-├── ml/                         # KHỐI MACHINE LEARNING (AI Core)
-│   ├── main.py                 # Luồng điều phối ML: Huấn luyện, chạy Dashboard, Auto-Learning
-│   ├── data_filter.py          # Xử lý nhiễu và cân bằng dữ liệu log (trading_memory.csv)
-│   ├── trading_teacher.py      # Hệ thống chuyên gia: Tính toán kỹ thuật (RSI, VWAP, EMA) gán nhãn
-│   └── trang_thai_thi_truong_ml/ # Module phân loại trạng thái thị trường chuyên sâu
-│       ├── ml_model.py         # Kiến trúc mạng Neural (TradingMLP, ResBlock, BatchNorm)
-│       ├── ml_predict.py       # Logic dự đoán Realtime & Đánh giá hiệu quả (PnL/Reward)
-│       ├── tao_feature.py      # Trích xuất đặc trưng (Features) đa khung bằng Polars
-│       ├── ml_compare.py       # So sánh hiệu suất giữa các phiên bản Model AI
-│       ├── ml_deploy.py        # Triển khai và đóng gói mô hình sẵn sàng thực chiến
-│       └── du_lieu_ml/         # Kho lưu trữ dữ liệu và trọng số vật lý
+├── ml/                             # KHỐI MACHINE LEARNING (AI Core)
+│   ├── main.py                     # Luồng điều phối ML: Huấn luyện, chạy Dashboard, Auto-Learning
+│   ├── data_filter.py              # Xử lý nhiễu và cân bằng dữ liệu log (trading_memory.csv)
+│   ├── trading_teacher.py          # Hệ thống chuyên gia: Tính toán kỹ thuật (RSI, VWAP, EMA) gán nhãn
+│   └── trang_thai_thi_truong_ml/   # Module phân loại trạng thái thị trường chuyên sâu
+│       ├── ml_model.py             # Kiến trúc mạng Neural (TradingMLP, ResBlock, BatchNorm)
+│       ├── ml_predict.py           # Logic dự đoán Realtime & Đánh giá hiệu quả (PnL/Reward)
+│       ├── tao_feature.py          # Trích xuất đặc trưng (Features) đa khung bằng Polars
+│       ├── ml_compare.py           # So sánh hiệu suất giữa các phiên bản Model AI
+│       ├── ml_deploy.py            # Triển khai và đóng gói mô hình sẵn sàng thực chiến
+│       └── du_lieu_ml/             # Kho lưu trữ dữ liệu và trọng số vật lý
 │           ├── model_pytorch.pth   # File trọng số mạng Neural đã huấn luyện thành công
 │           ├── model_info.json     # Cấu hình kiến trúc Input/Output của mô hình
 │           ├── scaler_params.json  # Tham số chuẩn hóa dữ liệu đầu vào (Mean/Std)
