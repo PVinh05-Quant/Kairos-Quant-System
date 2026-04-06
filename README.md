@@ -375,5 +375,4 @@ Với vai trò là người thiết kế hệ thống (Kiến trúc sư), địn
 *“Romain Rolland: "There is only one heroism in the world: to see the world as it is, and to love it."”*
 
 ```
-```#   K a i r o s - Q u a n t - S y s t e m  
- 
+```

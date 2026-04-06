@@ -1,0 +1,18 @@
+{
+  "binance": {
+    "apiKey": "",
+    "secret": "",
+    "options": { "defaultType": "future" }
+  },
+  "okx": {
+    "apiKey": "",
+    "secret": "",
+    "password": "",
+    "options": { "defaultType": "swap" }
+  },
+  "bybit": {
+    "apiKey": "",
+    "secret": "",
+    "options": { "defaultType": "linear" }
+  }
+}

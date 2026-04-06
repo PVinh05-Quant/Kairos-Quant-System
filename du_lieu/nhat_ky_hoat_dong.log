@@ -1,0 +1,697 @@
+2026-04-05 21:19:10,568 - INFO -  ╔══════════════════════════════════════════════════╗
+2026-04-05 21:19:10,568 - INFO -  ║              🚀 BẮT ĐẦU BACKTEST 🚀             ║
+2026-04-05 21:19:10,568 - INFO -  ╚══════════════════════════════════════════════════╝
+2026-04-05 21:19:10,568 - INFO -     📅 Thời gian : 2026-03-01 -> 2026-03-31
+2026-04-05 21:19:10,570 - INFO -     💰 Vốn gốc   : 10,000.00$
+2026-04-05 21:19:10,570 - INFO -     ⚙️ Cài đặt   : Phí 0.04% | Slippage 0.01%
+2026-04-05 21:19:10,570 - INFO - ────────────────────────────────────────────────────
+2026-04-05 21:19:10,570 - INFO - 🔍 Đang xử lý cặp: BTC/USDT
+2026-04-05 21:19:10,570 - INFO - ⬇️ Đang tải dữ liệu BTC/USDT từ 2026-01-30 (Buffer 30 ngày) đến 2026-03-31...
+2026-04-05 21:19:54,922 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 21:19:54,926 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  67911.80 | Fee:   0.24$ (Sc:   35) | S: Breakout
+2026-04-05 21:20:15,763 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  67040.81 | PnL: -8.18$ (   -8.18%) | S: Breakout
+2026-04-05 21:22:23,556 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  66085.47 | Fee:   0.28$ (Sc:  -26) | S: Breakout
+2026-04-05 21:22:58,996 - INFO - [ OUT ] BTC/USDT  SELL | Price:  66640.32 | PnL: -6.44$ (   -6.44%) | S: Breakout
+2026-04-05 21:25:42,172 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 21:25:42,182 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  67007.75 | Fee:   0.24$ (Sc:   29) | S: Breakout
+2026-04-05 21:25:45,037 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  68741.06 | PnL: +15.04$ (  +15.04%) | S: Breakout
+2026-04-05 21:25:45,203 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 21:25:45,208 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  68744.80 | Fee:   0.24$ (Sc:   61) | S: Breakout
+2026-04-05 21:26:42,270 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  68518.03 | PnL: -2.46$ (   -2.46%) | S: Breakout
+2026-04-05 21:27:52,374 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 21:27:52,383 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  66618.11 | Fee:   0.32$ (Sc:  -26) | S: Breakout
+2026-04-05 21:28:07,187 - INFO - [ OUT ] BTC/USDT  SELL | Price:  67531.62 | PnL: -11.61$ (  -11.61%) | S: Breakout
+2026-04-05 21:28:35,686 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 21:28:35,702 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  66279.45 | Fee:   0.24$ (Sc:  -44) | S: Breakout
+2026-04-05 21:28:39,179 - INFO - [ OUT ] BTC/USDT  SELL | Price:  67226.89 | PnL: -9.06$ (   -9.06%) | S: Breakout
+2026-04-05 21:28:48,324 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 21:28:48,333 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  68961.49 | Fee:   0.24$ (Sc:   27) | S: Breakout
+2026-04-05 21:28:49,327 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  67998.46 | PnL: -8.86$ (   -8.86%) | S: Breakout
+2026-04-05 21:31:18,878 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 21:31:18,898 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  69105.78 | Fee:   0.32$ (Sc:   39) | S: Breakout
+2026-04-05 21:31:24,334 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  70500.00 | PnL: +15.50$ (  +15.50%) | S: Breakout
+2026-04-05 21:31:24,475 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 21:31:24,479 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  70257.02 | Fee:   0.16$ (Sc:   57) | S: Breakout
+2026-04-05 21:31:53,942 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  72299.36 | PnL: +11.31$ (  +11.31%) | S: Breakout
+2026-04-05 21:31:54,107 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  72339.07 | Fee:   0.28$ (Sc:   63) | S: Breakout
+2026-04-05 21:31:55,341 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  71300.10 | PnL: -10.61$ (  -10.61%) | S: Breakout
+2026-04-05 21:32:03,485 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  72698.23 | Fee:   0.28$ (Sc:   57) | S: Breakout
+2026-04-05 21:33:15,752 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  72264.13 | PnL: -4.74$ (   -4.74%) | S: Breakout
+2026-04-05 21:33:35,124 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 21:33:35,141 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  71824.46 | Fee:   0.32$ (Sc:  -26) | S: Breakout
+2026-04-05 21:33:42,683 - INFO - [ OUT ] BTC/USDT  SELL | Price:  72775.20 | PnL: -11.23$ (  -11.23%) | S: Breakout
+2026-04-05 21:34:44,518 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 21:34:44,530 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  71639.93 | Fee:   0.24$ (Sc:  -32) | S: Breakout
+2026-04-05 21:37:20,090 - INFO - [ OUT ] BTC/USDT  SELL | Price:  69795.87 | PnL: +14.96$ (  +14.96%) | S: Breakout
+2026-04-05 21:37:20,323 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  69826.36 | Fee:   0.28$ (Sc:  -31) | S: Breakout
+2026-04-05 21:37:41,570 - INFO - [ OUT ] BTC/USDT  SELL | Price:  68318.21 | PnL: +14.56$ (  +14.56%) | S: Breakout
+2026-04-05 21:37:42,796 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  68345.95 | Fee:   0.28$ (Sc:  -34) | S: Breakout
+2026-04-05 21:39:02,977 - INFO - [ OUT ] BTC/USDT  SELL | Price:  68499.99 | PnL: -2.14$ (   -2.14%) | S: Breakout
+2026-04-05 21:39:34,324 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  67709.50 | Fee:   0.28$ (Sc:  -33) | S: Breakout
+2026-04-05 21:39:57,006 - INFO - [ OUT ] BTC/USDT  SELL | Price:  68186.93 | PnL: -5.50$ (   -5.50%) | S: Breakout
+2026-04-05 21:41:16,936 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 21:41:16,943 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  67357.45 | Fee:   0.32$ (Sc:  -40) | S: Breakout
+2026-04-05 21:42:27,287 - INFO - [ OUT ] BTC/USDT  SELL | Price:  67500.11 | PnL: -2.33$ (   -2.33%) | S: Breakout
+2026-04-05 21:42:27,454 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  67506.86 | Fee:   0.28$ (Sc:   26) | S: Breakout
+2026-04-05 21:42:44,419 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  67078.75 | PnL: -5.00$ (   -5.00%) | S: Breakout
+2026-04-05 21:44:27,282 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 21:44:27,286 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  66038.29 | Fee:   0.16$ (Sc:  -43) | S: Breakout
+2026-04-05 21:44:41,258 - INFO - [ OUT ] BTC/USDT  SELL | Price:  66583.43 | PnL: -3.62$ (   -3.62%) | S: Breakout
+2026-04-05 21:45:12,249 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 21:45:12,253 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  67646.46 | Fee:   0.24$ (Sc:   27) | S: Breakout
+2026-04-05 21:45:31,277 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  66981.04 | PnL: -6.38$ (   -6.38%) | S: Breakout
+2026-04-05 21:45:57,989 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  68134.81 | Fee:   0.28$ (Sc:   32) | S: Breakout
+2026-04-05 21:46:12,771 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  67357.22 | PnL: -8.55$ (   -8.55%) | S: Breakout
+2026-04-05 21:46:36,324 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  68511.79 | Fee:   0.28$ (Sc:   27) | S: Breakout
+2026-04-05 21:48:15,597 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  70014.99 | PnL: +14.80$ (  +14.80%) | S: Breakout
+2026-04-05 21:48:15,754 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 21:48:15,759 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  70008.20 | Fee:   0.32$ (Sc:   39) | S: Breakout
+2026-04-05 21:49:10,845 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  70044.85 | PnL: -0.22$ (   -0.22%) | S: Breakout
+2026-04-05 21:49:18,374 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 21:49:18,380 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  69330.45 | Fee:   0.24$ (Sc:  -26) | S: Breakout
+2026-04-05 21:49:20,213 - INFO - [ OUT ] BTC/USDT  SELL | Price:  70177.07 | PnL: -7.81$ (   -7.81%) | S: Breakout
+2026-04-05 21:49:23,802 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 21:49:23,806 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  71439.07 | Fee:   0.16$ (Sc:   68) | S: Breakout
+2026-04-05 21:49:36,051 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  70587.04 | PnL: -5.09$ (   -5.09%) | S: Breakout
+2026-04-05 21:52:53,597 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  69166.08 | Fee:   0.28$ (Sc:  -28) | S: Breakout
+2026-04-05 21:52:59,837 - INFO - [ OUT ] BTC/USDT  SELL | Price:  69860.64 | PnL: -7.59$ (   -7.59%) | S: Breakout
+2026-04-05 21:53:04,708 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 21:53:04,714 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  70932.78 | Fee:   0.16$ (Sc:   28) | S: Breakout
+2026-04-05 21:53:05,689 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  70106.54 | PnL: -4.98$ (   -4.98%) | S: Breakout
+2026-04-05 21:53:46,630 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 21:53:46,638 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  71188.53 | Fee:   0.24$ (Sc:   37) | S: Breakout
+2026-04-05 21:54:26,050 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  70344.89 | PnL: -7.59$ (   -7.59%) | S: Breakout
+2026-04-05 21:59:06,044 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  71060.74 | Fee:   0.28$ (Sc:   28) | S: Breakout
+2026-04-05 21:59:58,423 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  72483.16 | PnL: +13.45$ (  +13.45%) | S: Breakout
+2026-04-05 21:59:58,634 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 21:59:58,634 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  72466.06 | Fee:   0.32$ (Sc:   29) | S: Breakout
+2026-04-05 22:00:29,738 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  73847.08 | PnL: +14.61$ (  +14.61%) | S: Breakout
+2026-04-05 22:00:29,957 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 22:00:29,964 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  73839.32 | Fee:   0.16$ (Sc:   57) | S: Breakout
+2026-04-05 22:00:32,345 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  73086.33 | PnL: -4.40$ (   -4.40%) | S: Breakout
+2026-04-05 22:01:50,761 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  70769.42 | Fee:   0.28$ (Sc:  -26) | S: Breakout
+2026-04-05 22:04:08,286 - INFO - [ OUT ] BTC/USDT  SELL | Price:  70880.59 | PnL: -1.66$ (   -1.66%) | S: Breakout
+2026-04-05 22:04:39,874 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  71271.37 | Fee:   0.28$ (Sc:   27) | S: Breakout
+2026-04-05 22:05:30,085 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  71415.67 | PnL: +0.86$ (   +0.86%) | S: Breakout
+2026-04-05 22:06:13,876 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 22:06:13,891 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  71972.04 | Fee:   0.24$ (Sc:   27) | S: Breakout
+2026-04-05 22:06:17,765 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  71603.50 | PnL: -3.55$ (   -3.55%) | S: Breakout
+2026-04-05 22:06:43,450 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 22:06:43,450 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  72127.20 | Fee:   0.16$ (Sc:   29) | S: Breakout
+2026-04-05 22:06:46,210 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  71731.28 | PnL: -2.52$ (   -2.52%) | S: Breakout
+2026-04-05 22:06:50,310 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 22:06:50,312 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  72431.15 | Fee:   0.16$ (Sc:   44) | S: Breakout
+2026-04-05 22:07:11,650 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  73250.78 | PnL: +4.21$ (   +4.21%) | S: Breakout
+2026-04-05 22:07:11,981 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 22:07:11,995 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  73294.16 | Fee:   0.24$ (Sc:   35) | S: Breakout
+2026-04-05 22:07:12,565 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  74306.22 | PnL: +7.80$ (   +7.80%) | S: Breakout
+2026-04-05 22:07:12,685 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 22:07:12,689 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  73961.39 | Fee:   0.16$ (Sc:   47) | S: Breakout
+2026-04-05 22:07:31,044 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  73453.39 | PnL: -3.07$ (   -3.07%) | S: Breakout
+2026-04-05 22:09:37,843 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  74652.60 | Fee:   0.28$ (Sc:   47) | S: Breakout
+2026-04-05 22:10:09,147 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  74140.01 | PnL: -5.37$ (   -5.37%) | S: Breakout
+2026-04-05 22:11:31,801 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  73508.46 | Fee:   0.28$ (Sc:  -41) | S: Breakout
+2026-04-05 22:11:36,185 - INFO - [ OUT ] BTC/USDT  SELL | Price:  74403.96 | PnL: -9.09$ (   -9.09%) | S: Breakout
+2026-04-05 22:14:51,338 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 22:14:51,354 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  73214.68 | Fee:   0.32$ (Sc:  -25) | S: Breakout
+2026-04-05 22:15:03,620 - INFO - [ OUT ] BTC/USDT  SELL | Price:  71897.34 | PnL: +13.75$ (  +13.75%) | S: Breakout
+2026-04-05 22:15:04,897 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 22:15:04,903 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  71870.41 | Fee:   0.24$ (Sc:  -30) | S: Breakout
+2026-04-05 22:15:28,100 - INFO - [ OUT ] BTC/USDT  SELL | Price:  70550.84 | PnL: +10.54$ (  +10.54%) | S: Breakout
+2026-04-05 22:15:28,223 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  70492.96 | Fee:   0.28$ (Sc:  -42) | S: Breakout
+2026-04-05 22:15:29,578 - INFO - [ OUT ] BTC/USDT  SELL | Price:  71159.48 | PnL: -7.18$ (   -7.18%) | S: Breakout
+2026-04-05 22:16:43,964 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  70526.32 | Fee:   0.28$ (Sc:  -25) | S: Breakout
+2026-04-05 22:17:05,626 - INFO - [ OUT ] BTC/USDT  SELL | Price:  69184.48 | PnL: +12.76$ (  +12.76%) | S: Breakout
+2026-04-05 22:17:05,750 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  69229.08 | Fee:   0.28$ (Sc:  -49) | S: Breakout
+2026-04-05 22:17:09,262 - INFO - [ OUT ] BTC/USDT  SELL | Price:  69944.39 | PnL: -7.79$ (   -7.79%) | S: Breakout
+2026-04-05 22:17:24,795 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  68944.26 | Fee:   0.28$ (Sc:  -62) | S: Breakout
+2026-04-05 22:17:31,008 - INFO - [ OUT ] BTC/USDT  SELL | Price:  69676.44 | PnL: -7.99$ (   -7.99%) | S: Breakout
+2026-04-05 22:19:26,597 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  71170.16 | Fee:   0.28$ (Sc:   31) | S: Breakout
+2026-04-05 22:19:33,939 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  70407.79 | PnL: -8.06$ (   -8.06%) | S: Breakout
+2026-04-05 22:23:11,824 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 22:23:11,839 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  71069.48 | Fee:   0.32$ (Sc:   25) | S: Breakout
+2026-04-05 22:23:15,891 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  70526.77 | PnL: -6.75$ (   -6.75%) | S: Breakout
+2026-04-05 22:24:20,734 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 22:24:20,740 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  69921.44 | Fee:   0.32$ (Sc:  -25) | S: Breakout
+2026-04-05 22:24:21,129 - INFO - [ OUT ] BTC/USDT  SELL | Price:  69213.48 | PnL: +7.46$ (   +7.46%) | S: Breakout
+2026-04-05 22:24:21,236 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 22:24:21,236 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  69228.89 | Fee:   0.16$ (Sc:  -42) | S: Breakout
+2026-04-05 22:24:21,832 - INFO - [ OUT ] BTC/USDT  SELL | Price:  68517.26 | PnL: +3.79$ (   +3.79%) | S: Breakout
+2026-04-05 22:24:21,966 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 22:24:21,972 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  68377.99 | Fee:   0.24$ (Sc:  -33) | S: Breakout
+2026-04-05 22:24:22,539 - INFO - [ OUT ] BTC/USDT  SELL | Price:  68733.71 | PnL: -3.60$ (   -3.60%) | S: Breakout
+2026-04-05 22:25:42,536 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  68437.26 | Fee:   0.28$ (Sc:  -26) | S: Breakout
+2026-04-05 22:25:48,462 - INFO - [ OUT ] BTC/USDT  SELL | Price:  68859.97 | PnL: -4.88$ (   -4.88%) | S: Breakout
+2026-04-05 22:26:51,499 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 22:26:51,505 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  67673.05 | Fee:   0.16$ (Sc:  -57) | S: Breakout
+2026-04-05 22:26:56,288 - INFO - [ OUT ] BTC/USDT  SELL | Price:  68175.15 | PnL: -3.29$ (   -3.29%) | S: Breakout
+2026-04-05 22:28:33,283 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 22:28:33,289 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  69982.78 | Fee:   0.16$ (Sc:   53) | S: Breakout
+2026-04-05 22:28:33,666 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  71279.53 | PnL: +7.09$ (   +7.09%) | S: Breakout
+2026-04-05 22:28:33,898 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 22:28:33,898 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  70899.31 | Fee:   0.16$ (Sc:   41) | S: Breakout
+2026-04-05 22:28:36,366 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  70248.44 | PnL: -3.99$ (   -3.99%) | S: Breakout
+2026-04-05 22:28:55,969 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 22:28:55,975 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  71573.98 | Fee:   0.24$ (Sc:   63) | S: Breakout
+2026-04-05 22:29:02,512 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  70822.30 | PnL: -6.78$ (   -6.78%) | S: Breakout
+2026-04-05 22:31:07,644 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 22:31:07,655 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  71273.56 | Fee:   0.32$ (Sc:   25) | S: Breakout
+2026-04-05 22:31:27,318 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  70806.38 | PnL: -5.88$ (   -5.88%) | S: Breakout
+2026-04-05 22:31:34,229 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 22:31:34,234 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  70072.71 | Fee:   0.32$ (Sc:  -36) | S: Breakout
+2026-04-05 22:31:58,320 - INFO - [ OUT ] BTC/USDT  SELL | Price:  70275.44 | PnL: -2.95$ (   -2.95%) | S: Breakout
+2026-04-05 22:33:31,619 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  71506.45 | Fee:   0.28$ (Sc:   30) | S: Breakout
+2026-04-05 22:33:57,180 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  71034.56 | PnL: -5.18$ (   -5.18%) | S: Breakout
+2026-04-05 22:33:58,962 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 22:33:58,966 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  70564.71 | Fee:   0.24$ (Sc:  -25) | S: Breakout
+2026-04-05 22:34:03,454 - INFO - [ OUT ] BTC/USDT  SELL | Price:  71264.71 | PnL: -6.43$ (   -6.43%) | S: Breakout
+2026-04-05 22:35:50,308 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 22:35:50,312 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  69856.14 | Fee:   0.32$ (Sc:  -26) | S: Breakout
+2026-04-05 22:36:34,241 - INFO - [ OUT ] BTC/USDT  SELL | Price:  68574.28 | PnL: +14.04$ (  +14.04%) | S: Breakout
+2026-04-05 22:36:34,356 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 22:36:34,356 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  68564.52 | Fee:   0.16$ (Sc:  -44) | S: Breakout
+2026-04-05 22:36:42,671 - INFO - [ OUT ] BTC/USDT  SELL | Price:  69177.78 | PnL: -3.90$ (   -3.90%) | S: Breakout
+2026-04-05 22:38:15,374 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  67935.72 | Fee:   0.28$ (Sc:  -29) | S: Breakout
+2026-04-05 22:38:23,851 - INFO - [ OUT ] BTC/USDT  SELL | Price:  66739.17 | PnL: +11.77$ (  +11.77%) | S: Breakout
+2026-04-05 22:38:24,030 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 22:38:24,046 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  66633.02 | Fee:   0.16$ (Sc:  -58) | S: Breakout
+2026-04-05 22:39:12,389 - INFO - [ OUT ] BTC/USDT  SELL | Price:  66291.05 | PnL: +1.73$ (   +1.73%) | S: Breakout
+2026-04-05 22:40:56,345 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 22:40:56,345 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  66646.50 | Fee:   0.32$ (Sc:   26) | S: Breakout
+2026-04-05 22:41:27,209 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  66651.00 | PnL: -0.59$ (   -0.59%) | S: Breakout
+2026-04-05 22:42:10,236 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 22:42:10,243 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  67082.34 | Fee:   0.24$ (Sc:   27) | S: Breakout
+2026-04-05 22:42:16,440 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  66721.09 | PnL: -3.71$ (   -3.71%) | S: Breakout
+2026-04-05 22:43:49,734 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 22:43:49,734 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  66222.92 | Fee:   0.24$ (Sc:  -31) | S: Breakout
+2026-04-05 22:44:01,464 - INFO - [ OUT ] BTC/USDT  SELL | Price:  66595.61 | PnL: -3.86$ (   -3.86%) | S: Breakout
+2026-04-05 22:44:21,750 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 22:44:21,750 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  65824.61 | Fee:   0.16$ (Sc:  -43) | S: Breakout
+2026-04-05 22:44:22,147 - INFO - [ OUT ] BTC/USDT  SELL | Price:  65075.57 | PnL: +4.23$ (   +4.23%) | S: Breakout
+2026-04-05 22:44:22,273 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 22:44:22,284 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  65252.20 | Fee:   0.16$ (Sc:  -48) | S: Breakout
+2026-04-05 22:44:22,930 - INFO - [ OUT ] BTC/USDT  SELL | Price:  65630.22 | PnL: -2.64$ (   -2.64%) | S: Breakout
+2026-04-05 22:44:33,498 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 22:44:33,502 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  66915.22 | Fee:   0.24$ (Sc:   28) | S: Breakout
+2026-04-05 22:44:34,494 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  66510.30 | PnL: -4.11$ (   -4.11%) | S: Breakout
+2026-04-05 22:44:52,658 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 22:44:52,662 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  67225.17 | Fee:   0.24$ (Sc:   43) | S: Breakout
+2026-04-05 22:45:31,789 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  68146.50 | PnL: +7.74$ (   +7.74%) | S: Breakout
+2026-04-05 22:45:31,920 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  68158.09 | Fee:   0.28$ (Sc:   32) | S: Breakout
+2026-04-05 22:45:34,095 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  67582.02 | PnL: -6.48$ (   -6.48%) | S: Breakout
+2026-04-05 22:45:40,009 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  67140.33 | Fee:   0.28$ (Sc:  -28) | S: Breakout
+2026-04-05 22:45:41,328 - INFO - [ OUT ] BTC/USDT  SELL | Price:  67727.29 | PnL: -6.68$ (   -6.68%) | S: Breakout
+2026-04-05 22:46:01,158 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 22:46:01,158 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  66912.41 | Fee:   0.24$ (Sc:  -27) | S: Breakout
+2026-04-05 22:46:28,751 - INFO - [ OUT ] BTC/USDT  SELL | Price:  67263.09 | PnL: -3.62$ (   -3.62%) | S: Breakout
+2026-04-05 22:46:35,631 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 22:46:35,645 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  68156.80 | Fee:   0.24$ (Sc:   25) | S: Breakout
+2026-04-05 22:46:46,380 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  67485.64 | PnL: -6.39$ (   -6.39%) | S: Breakout
+2026-04-05 22:47:23,328 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 22:47:23,340 - INFO - [ IN  ] BTC/USDT  SELL | Entry:  66123.40 | Fee:   0.24$ (Sc:  -41) | S: Breakout
+2026-04-05 22:47:28,430 - INFO - [ OUT ] BTC/USDT  SELL | Price:  66753.62 | PnL: -6.20$ (   -6.20%) | S: Breakout
+2026-04-05 22:48:16,055 - INFO - [LEV  ] BTC/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 22:48:16,055 - INFO - [ IN  ] BTC/USDT  BUY  | Entry:  68225.17 | Fee:   0.16$ (Sc:   28) | S: Breakout
+2026-04-05 22:48:18,550 - INFO - [ OUT ] BTC/USDT  BUY  | Price:  67524.46 | PnL: -4.43$ (   -4.43%) | S: Breakout
+2026-04-05 22:49:08,956 - INFO - 🔍 Đang xử lý cặp: ETH/USDT
+2026-04-05 22:49:08,960 - INFO - ⬇️ Đang tải dữ liệu ETH/USDT từ 2026-01-30 (Buffer 30 ngày) đến 2026-03-31...
+2026-04-05 22:49:47,568 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   1989.34 | Fee:   0.28$ (Sc:   42) | S: Breakout
+2026-04-05 22:49:48,308 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2032.77 | PnL: +14.72$ (  +14.72%) | S: Breakout
+2026-04-05 22:49:48,420 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2030.85 | Fee:   0.28$ (Sc:   39) | S: Breakout
+2026-04-05 22:49:55,989 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   1998.68 | PnL: -11.65$ (  -11.65%) | S: Breakout
+2026-04-05 22:51:21,796 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 22:51:21,800 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   1965.99 | Fee:   0.16$ (Sc:  -28) | S: Breakout
+2026-04-05 22:51:52,137 - INFO - [ OUT ] ETH/USDT  SELL | Price:   1973.55 | PnL: -1.86$ (   -1.86%) | S: Breakout
+2026-04-05 22:53:34,783 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 22:53:34,787 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   1999.15 | Fee:   0.16$ (Sc:   40) | S: Breakout
+2026-04-05 22:53:38,857 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2073.20 | PnL: +14.50$ (  +14.50%) | S: Breakout
+2026-04-05 22:55:35,914 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 22:55:35,914 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   1968.22 | Fee:   0.32$ (Sc:  -25) | S: Breakout
+2026-04-05 22:55:58,257 - INFO - [ OUT ] ETH/USDT  SELL | Price:   1929.56 | PnL: +15.07$ (  +15.07%) | S: Breakout
+2026-04-05 22:56:10,905 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 22:56:10,921 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2009.96 | Fee:   0.24$ (Sc:   27) | S: Breakout
+2026-04-05 22:56:11,823 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   1972.25 | PnL: -11.74$ (  -11.74%) | S: Breakout
+2026-04-05 22:57:59,538 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 22:57:59,542 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2017.05 | Fee:   0.32$ (Sc:   26) | S: Breakout
+2026-04-05 22:58:03,059 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2054.93 | PnL: +14.38$ (  +14.38%) | S: Breakout
+2026-04-05 22:58:44,910 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2098.34 | Fee:   0.28$ (Sc:   47) | S: Breakout
+2026-04-05 22:58:45,726 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2066.66 | PnL: -11.13$ (  -11.13%) | S: Breakout
+2026-04-05 22:58:51,536 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 22:58:51,551 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2128.87 | Fee:   0.24$ (Sc:   32) | S: Breakout
+2026-04-05 22:59:04,831 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2187.05 | PnL: +15.92$ (  +15.92%) | S: Breakout
+2026-04-05 22:59:04,954 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2185.24 | Fee:   0.28$ (Sc:   54) | S: Breakout
+2026-04-05 22:59:11,639 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2149.31 | PnL: -12.07$ (  -12.07%) | S: Breakout
+2026-04-05 23:00:27,595 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2100.97 | Fee:   0.28$ (Sc:  -25) | S: Breakout
+2026-04-05 23:00:32,324 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2130.99 | PnL: -10.56$ (  -10.56%) | S: Breakout
+2026-04-05 23:01:16,450 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 23:01:16,452 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2088.98 | Fee:   0.24$ (Sc:  -33) | S: Breakout
+2026-04-05 23:02:40,615 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2036.20 | PnL: +14.68$ (  +14.68%) | S: Breakout
+2026-04-05 23:02:43,969 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:02:43,971 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2026.78 | Fee:   0.16$ (Sc:  -37) | S: Breakout
+2026-04-05 23:02:57,334 - INFO - [ OUT ] ETH/USDT  SELL | Price:   1965.12 | PnL: +11.85$ (  +11.85%) | S: Breakout
+2026-04-05 23:02:57,560 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 23:02:57,573 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   1959.48 | Fee:   0.24$ (Sc:  -26) | S: Breakout
+2026-04-05 23:03:03,787 - INFO - [ OUT ] ETH/USDT  SELL | Price:   1990.22 | PnL: -9.89$ (   -9.89%) | S: Breakout
+2026-04-05 23:06:03,266 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 23:06:03,270 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   1959.52 | Fee:   0.32$ (Sc:  -34) | S: Breakout
+2026-04-05 23:06:51,648 - INFO - [ OUT ] ETH/USDT  SELL | Price:   1960.43 | PnL: -1.01$ (   -1.01%) | S: Breakout
+2026-04-05 23:07:05,947 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:07:05,960 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   1979.48 | Fee:   0.16$ (Sc:   29) | S: Breakout
+2026-04-05 23:07:08,354 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   1963.85 | PnL: -3.48$ (   -3.48%) | S: Breakout
+2026-04-05 23:07:18,067 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:07:18,067 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   1927.66 | Fee:   0.16$ (Sc:  -55) | S: Breakout
+2026-04-05 23:07:18,686 - INFO - [ OUT ] ETH/USDT  SELL | Price:   1943.75 | PnL: -3.66$ (   -3.66%) | S: Breakout
+2026-04-05 23:08:10,414 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   1955.27 | Fee:   0.28$ (Sc:   25) | S: Breakout
+2026-04-05 23:08:20,580 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   1936.34 | PnL: -7.34$ (   -7.34%) | S: Breakout
+2026-04-05 23:08:20,868 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:08:20,868 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   1920.53 | Fee:   0.16$ (Sc:  -53) | S: Breakout
+2026-04-05 23:08:22,952 - INFO - [ OUT ] ETH/USDT  SELL | Price:   1940.63 | PnL: -4.51$ (   -4.51%) | S: Breakout
+2026-04-05 23:08:57,702 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:08:57,709 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   1982.03 | Fee:   0.16$ (Sc:   41) | S: Breakout
+2026-04-05 23:09:39,772 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2030.18 | PnL: +9.40$ (   +9.40%) | S: Breakout
+2026-04-05 23:09:58,479 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 23:09:58,485 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2038.41 | Fee:   0.24$ (Sc:   29) | S: Breakout
+2026-04-05 23:10:01,571 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2007.00 | PnL: -9.73$ (   -9.73%) | S: Breakout
+2026-04-05 23:10:14,250 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2043.89 | Fee:   0.28$ (Sc:   37) | S: Breakout
+2026-04-05 23:10:25,783 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2011.41 | PnL: -11.69$ (  -11.69%) | S: Breakout
+2026-04-05 23:11:33,780 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2064.60 | Fee:   0.28$ (Sc:   33) | S: Breakout
+2026-04-05 23:11:53,600 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2041.73 | PnL: -8.31$ (   -8.31%) | S: Breakout
+2026-04-05 23:11:58,696 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:11:58,696 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2020.39 | Fee:   0.16$ (Sc:  -27) | S: Breakout
+2026-04-05 23:12:01,398 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2049.47 | PnL: -6.08$ (   -6.08%) | S: Breakout
+2026-04-05 23:12:02,527 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:12:02,527 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2076.96 | Fee:   0.16$ (Sc:   59) | S: Breakout
+2026-04-05 23:12:14,894 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2047.73 | PnL: -5.95$ (   -5.95%) | S: Breakout
+2026-04-05 23:14:36,018 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 23:14:36,032 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2045.30 | Fee:   0.32$ (Sc:   25) | S: Breakout
+2026-04-05 23:14:51,384 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2085.00 | PnL: +14.89$ (  +14.89%) | S: Breakout
+2026-04-05 23:14:51,501 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 23:14:51,501 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2084.17 | Fee:   0.24$ (Sc:   30) | S: Breakout
+2026-04-05 23:15:13,969 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2056.23 | PnL: -8.52$ (   -8.52%) | S: Breakout
+2026-04-05 23:15:41,116 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 23:15:41,120 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2023.49 | Fee:   0.32$ (Sc:  -25) | S: Breakout
+2026-04-05 23:16:01,128 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2049.63 | PnL: -10.97$ (  -10.97%) | S: Breakout
+2026-04-05 23:16:47,006 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2088.61 | Fee:   0.28$ (Sc:   46) | S: Breakout
+2026-04-05 23:16:47,751 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2062.09 | PnL: -9.45$ (   -9.45%) | S: Breakout
+2026-04-05 23:18:02,029 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:18:02,044 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2107.76 | Fee:   0.16$ (Sc:   42) | S: Breakout
+2026-04-05 23:18:25,152 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2095.13 | PnL: -2.72$ (   -2.72%) | S: Breakout
+2026-04-05 23:19:15,170 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 23:19:15,183 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2151.24 | Fee:   0.32$ (Sc:   52) | S: Breakout
+2026-04-05 23:19:17,241 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2200.00 | PnL: +17.49$ (  +17.49%) | S: Breakout
+2026-04-05 23:19:17,361 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:19:17,361 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2197.36 | Fee:   0.16$ (Sc:   65) | S: Breakout
+2026-04-05 23:19:22,633 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2167.87 | PnL: -5.69$ (   -5.69%) | S: Breakout
+2026-04-05 23:20:17,428 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2086.47 | Fee:   0.28$ (Sc:  -35) | S: Breakout
+2026-04-05 23:20:39,617 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2103.97 | PnL: -6.43$ (   -6.43%) | S: Breakout
+2026-04-05 23:20:53,353 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2077.78 | Fee:   0.28$ (Sc:  -32) | S: Breakout
+2026-04-05 23:21:44,881 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2081.81 | PnL: -1.92$ (   -1.92%) | S: Breakout
+2026-04-05 23:22:31,727 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 23:22:31,738 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2104.09 | Fee:   0.24$ (Sc:   41) | S: Breakout
+2026-04-05 23:23:10,349 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2100.45 | PnL: -1.52$ (   -1.52%) | S: Breakout
+2026-04-05 23:23:10,824 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:23:10,828 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2093.30 | Fee:   0.16$ (Sc:  -27) | S: Breakout
+2026-04-05 23:23:28,090 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2105.90 | PnL: -2.73$ (   -2.73%) | S: Breakout
+2026-04-05 23:23:47,864 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 23:23:47,868 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2126.00 | Fee:   0.24$ (Sc:   29) | S: Breakout
+2026-04-05 23:23:55,707 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2154.34 | PnL: +7.52$ (   +7.52%) | S: Breakout
+2026-04-05 23:23:55,837 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 23:23:55,841 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2152.95 | Fee:   0.24$ (Sc:   41) | S: Breakout
+2026-04-05 23:23:57,108 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2183.61 | PnL: +8.07$ (   +8.07%) | S: Breakout
+2026-04-05 23:24:31,805 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2207.28 | Fee:   0.28$ (Sc:   47) | S: Breakout
+2026-04-05 23:24:32,488 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2246.91 | PnL: +12.01$ (  +12.01%) | S: Breakout
+2026-04-05 23:24:32,608 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:24:32,608 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2244.48 | Fee:   0.16$ (Sc:   69) | S: Breakout
+2026-04-05 23:24:41,395 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2284.63 | PnL: +6.83$ (   +6.83%) | S: Breakout
+2026-04-05 23:25:28,967 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 23:25:28,971 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2292.56 | Fee:   0.24$ (Sc:   25) | S: Breakout
+2026-04-05 23:25:36,998 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2264.68 | PnL: -7.78$ (   -7.78%) | S: Breakout
+2026-04-05 23:26:03,100 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-05 23:26:03,104 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2324.23 | Fee:   0.24$ (Sc:   45) | S: Breakout
+2026-04-05 23:26:17,735 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2386.02 | PnL: +15.47$ (  +15.47%) | S: Breakout
+2026-04-05 23:26:17,856 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2385.41 | Fee:   0.28$ (Sc:   58) | S: Breakout
+2026-04-05 23:26:21,276 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2348.01 | PnL: -11.53$ (  -11.53%) | S: Breakout
+2026-04-05 23:27:03,173 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2298.56 | Fee:   0.28$ (Sc:  -27) | S: Breakout
+2026-04-05 23:27:12,771 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2332.47 | PnL: -10.89$ (  -10.89%) | S: Breakout
+2026-04-05 23:30:46,008 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 23:30:46,008 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2294.93 | Fee:   0.32$ (Sc:  -45) | S: Breakout
+2026-04-05 23:30:49,756 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2248.21 | PnL: +15.65$ (  +15.65%) | S: Breakout
+2026-04-05 23:31:49,055 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2164.50 | Fee:   0.28$ (Sc:  -41) | S: Breakout
+2026-04-05 23:31:52,307 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2192.01 | PnL: -9.46$ (   -9.46%) | S: Breakout
+2026-04-05 23:32:41,852 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2224.39 | Fee:   0.28$ (Sc:   27) | S: Breakout
+2026-04-05 23:32:45,985 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2195.07 | PnL: -9.79$ (   -9.79%) | S: Breakout
+2026-04-05 23:33:01,962 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 23:33:01,968 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2164.42 | Fee:   0.32$ (Sc:  -27) | S: Breakout
+2026-04-05 23:33:12,125 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2192.07 | PnL: -10.86$ (  -10.86%) | S: Breakout
+2026-04-05 23:33:33,294 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 23:33:33,309 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2140.59 | Fee:   0.32$ (Sc:  -32) | S: Breakout
+2026-04-05 23:33:44,024 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2099.38 | PnL: +14.76$ (  +14.76%) | S: Breakout
+2026-04-05 23:35:44,101 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 23:35:44,105 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2172.00 | Fee:   0.32$ (Sc:   30) | S: Breakout
+2026-04-05 23:35:48,646 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2141.00 | PnL: -12.06$ (  -12.06%) | S: Breakout
+2026-04-05 23:40:35,413 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 23:40:35,413 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2137.20 | Fee:   0.32$ (Sc:  -39) | S: Breakout
+2026-04-05 23:40:35,760 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2112.01 | PnL: +8.79$ (   +8.79%) | S: Breakout
+2026-04-05 23:40:35,870 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:40:35,870 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2107.26 | Fee:   0.16$ (Sc:  -42) | S: Breakout
+2026-04-05 23:40:36,127 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2081.96 | PnL: +4.48$ (   +4.48%) | S: Breakout
+2026-04-05 23:40:36,243 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:40:36,243 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2088.91 | Fee:   0.16$ (Sc:  -37) | S: Breakout
+2026-04-05 23:40:36,641 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2063.51 | PnL: +4.54$ (   +4.54%) | S: Breakout
+2026-04-05 23:41:58,428 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2071.87 | Fee:   0.28$ (Sc:  -26) | S: Breakout
+2026-04-05 23:42:03,482 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2089.20 | PnL: -6.42$ (   -6.42%) | S: Breakout
+2026-04-05 23:42:44,411 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2063.05 | Fee:   0.28$ (Sc:  -30) | S: Breakout
+2026-04-05 23:43:44,481 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2083.22 | PnL: -7.40$ (   -7.40%) | S: Breakout
+2026-04-05 23:43:44,616 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:43:44,621 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2128.22 | Fee:   0.16$ (Sc:   55) | S: Breakout
+2026-04-05 23:43:45,032 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2179.17 | PnL: +9.25$ (   +9.25%) | S: Breakout
+2026-04-05 23:43:45,166 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:43:45,170 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2166.95 | Fee:   0.16$ (Sc:   58) | S: Breakout
+2026-04-05 23:43:47,629 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2141.37 | PnL: -5.04$ (   -5.04%) | S: Breakout
+2026-04-05 23:47:22,733 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2114.91 | Fee:   0.28$ (Sc:  -32) | S: Breakout
+2026-04-05 23:47:34,790 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2144.84 | PnL: -10.47$ (  -10.47%) | S: Breakout
+2026-04-05 23:49:00,837 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2180.91 | Fee:   0.28$ (Sc:   29) | S: Breakout
+2026-04-05 23:49:25,756 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2162.95 | PnL: -6.32$ (   -6.32%) | S: Breakout
+2026-04-05 23:51:48,997 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:51:49,001 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2093.92 | Fee:   0.16$ (Sc:  -44) | S: Breakout
+2026-04-05 23:52:19,777 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2048.88 | PnL: +8.28$ (   +8.28%) | S: Breakout
+2026-04-05 23:52:20,063 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:52:20,063 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2050.23 | Fee:   0.16$ (Sc:  -42) | S: Breakout
+2026-04-05 23:52:28,361 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2072.41 | PnL: -4.65$ (   -4.65%) | S: Breakout
+2026-04-05 23:53:56,733 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2037.37 | Fee:   0.28$ (Sc:  -25) | S: Breakout
+2026-04-05 23:54:05,102 - INFO - [ OUT ] ETH/USDT  SELL | Price:   1992.36 | PnL: +14.90$ (  +14.90%) | S: Breakout
+2026-04-05 23:54:05,229 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:54:05,229 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   1993.98 | Fee:   0.16$ (Sc:  -55) | S: Breakout
+2026-04-05 23:54:22,732 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2006.18 | PnL: -2.77$ (   -2.77%) | S: Breakout
+2026-04-05 23:56:05,441 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-05 23:56:05,447 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2002.87 | Fee:   0.32$ (Sc:   26) | S: Breakout
+2026-04-05 23:56:32,544 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2045.42 | PnL: +16.35$ (  +16.35%) | S: Breakout
+2026-04-05 23:56:32,670 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:56:32,674 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2029.94 | Fee:   0.16$ (Sc:   41) | S: Breakout
+2026-04-05 23:57:02,751 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2015.49 | PnL: -3.17$ (   -3.17%) | S: Breakout
+2026-04-05 23:57:13,416 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:57:13,416 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   1990.87 | Fee:   0.16$ (Sc:  -28) | S: Breakout
+2026-04-05 23:57:20,598 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2004.65 | PnL: -3.09$ (   -3.09%) | S: Breakout
+2026-04-05 23:58:46,194 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:58:46,194 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   1985.54 | Fee:   0.16$ (Sc:  -41) | S: Breakout
+2026-04-05 23:58:50,394 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2000.09 | PnL: -3.25$ (   -3.25%) | S: Breakout
+2026-04-05 23:59:56,323 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:59:56,323 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   1974.51 | Fee:   0.16$ (Sc:  -44) | S: Breakout
+2026-04-05 23:59:56,887 - INFO - [ OUT ] ETH/USDT  SELL | Price:   1946.05 | PnL: +5.45$ (   +5.45%) | S: Breakout
+2026-04-05 23:59:57,007 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-05 23:59:57,007 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   1941.95 | Fee:   0.16$ (Sc:  -54) | S: Breakout
+2026-04-05 23:59:57,214 - INFO - [ OUT ] ETH/USDT  SELL | Price:   1956.30 | PnL: -3.28$ (   -3.28%) | S: Breakout
+2026-04-06 00:00:07,850 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 00:00:07,854 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2019.00 | Fee:   0.24$ (Sc:   48) | S: Breakout
+2026-04-06 00:00:08,789 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2003.73 | PnL: -5.02$ (   -5.02%) | S: Breakout
+2026-04-06 00:00:25,522 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 00:00:25,522 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2026.90 | Fee:   0.24$ (Sc:   40) | S: Breakout
+2026-04-06 00:00:44,362 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2060.93 | PnL: +9.59$ (   +9.59%) | S: Breakout
+2026-04-06 00:00:44,480 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 00:00:44,482 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2063.52 | Fee:   0.16$ (Sc:   48) | S: Breakout
+2026-04-06 00:01:09,360 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2047.60 | PnL: -3.41$ (   -3.41%) | S: Breakout
+2026-04-06 00:01:30,632 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2036.29 | Fee:   0.28$ (Sc:  -30) | S: Breakout
+2026-04-06 00:02:00,008 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2054.96 | PnL: -6.98$ (   -6.98%) | S: Breakout
+2026-04-06 00:02:01,857 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 00:02:01,857 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2080.92 | Fee:   0.16$ (Sc:   29) | S: Breakout
+2026-04-06 00:02:22,637 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2053.89 | PnL: -5.52$ (   -5.52%) | S: Breakout
+2026-04-06 00:02:48,630 - INFO - [ IN  ] ETH/USDT  SELL | Entry:   2015.03 | Fee:   0.28$ (Sc:  -31) | S: Breakout
+2026-04-06 00:02:53,868 - INFO - [ OUT ] ETH/USDT  SELL | Price:   2040.75 | PnL: -9.49$ (   -9.49%) | S: Breakout
+2026-04-06 00:03:14,482 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2074.33 | Fee:   0.28$ (Sc:   26) | S: Breakout
+2026-04-06 00:03:18,404 - INFO - [ OUT ] ETH/USDT  BUY  | Price:   2048.02 | PnL: -9.44$ (   -9.44%) | S: Breakout
+2026-04-06 00:03:31,934 - INFO - [LEV  ] ETH/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 00:03:31,934 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2104.52 | Fee:   0.16$ (Sc:   51) | S: Breakout
+2026-04-06 00:04:00,045 - INFO - ⚠️ Đóng cưỡng bức lệnh treo ETH/USDT tại giá cuối cùng: 2105.43
+2026-04-06 00:04:00,045 - INFO - 🔍 Đang xử lý cặp: XRP/USDT
+2026-04-06 00:04:00,045 - INFO - ⬇️ Đang tải dữ liệu XRP/USDT từ 2026-01-30 (Buffer 30 ngày) đến 2026-03-31...
+2026-04-06 00:04:47,124 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 00:04:47,127 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.40 | Fee:   0.24$ (Sc:   37) | S: Breakout
+2026-04-06 00:04:50,695 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.43 | PnL: +15.89$ (  +15.89%) | S: Breakout
+2026-04-06 00:07:13,067 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.36 | Fee:   0.28$ (Sc:  -28) | S: Breakout
+2026-04-06 00:08:58,581 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.36 | PnL: -1.04$ (   -1.04%) | S: Breakout
+2026-04-06 00:09:03,414 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 00:09:03,414 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.39 | Fee:   0.16$ (Sc:   38) | S: Breakout
+2026-04-06 00:09:56,342 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.38 | PnL: -2.32$ (   -2.32%) | S: Breakout
+2026-04-06 00:12:34,796 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 00:12:34,802 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.38 | Fee:   0.24$ (Sc:   26) | S: Breakout
+2026-04-06 00:12:37,987 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.36 | PnL: -10.62$ (  -10.62%) | S: Breakout
+2026-04-06 00:15:16,219 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-06 00:15:16,225 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.39 | Fee:   0.32$ (Sc:   36) | S: Breakout
+2026-04-06 00:15:17,922 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.42 | PnL: +14.65$ (  +14.65%) | S: Breakout
+2026-04-06 00:16:04,577 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 00:16:04,577 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.43 | Fee:   0.24$ (Sc:   48) | S: Breakout
+2026-04-06 00:16:07,147 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.47 | PnL: +14.96$ (  +14.96%) | S: Breakout
+2026-04-06 00:18:24,901 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-06 00:18:24,905 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.45 | Fee:   0.32$ (Sc:   26) | S: Breakout
+2026-04-06 00:18:34,148 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.43 | PnL: -11.64$ (  -11.64%) | S: Breakout
+2026-04-06 00:18:56,307 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 00:18:56,309 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.41 | Fee:   0.24$ (Sc:  -30) | S: Breakout
+2026-04-06 00:20:18,014 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.37 | PnL: +15.60$ (  +15.60%) | S: Breakout
+2026-04-06 00:20:18,143 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 00:20:18,143 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.37 | Fee:   0.24$ (Sc:  -25) | S: Breakout
+2026-04-06 00:20:50,543 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.37 | PnL: -1.59$ (   -1.59%) | S: Breakout
+2026-04-06 00:23:07,557 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-06 00:23:07,557 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.35 | Fee:   0.32$ (Sc:  -30) | S: Breakout
+2026-04-06 00:23:55,607 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.36 | PnL: -4.03$ (   -4.03%) | S: Breakout
+2026-04-06 00:24:13,699 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 00:24:13,705 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.36 | Fee:   0.24$ (Sc:   26) | S: Breakout
+2026-04-06 00:24:24,333 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.36 | PnL: -4.49$ (   -4.49%) | S: Breakout
+2026-04-06 00:24:59,186 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 00:24:59,196 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.34 | Fee:   0.24$ (Sc:  -36) | S: Breakout
+2026-04-06 00:25:09,331 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.35 | PnL: -5.20$ (   -5.20%) | S: Breakout
+2026-04-06 00:25:32,170 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 00:25:32,176 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.33 | Fee:   0.16$ (Sc:  -36) | S: Breakout
+2026-04-06 00:25:34,422 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.34 | PnL: -3.75$ (   -3.75%) | S: Breakout
+2026-04-06 00:26:08,723 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 00:26:08,723 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.36 | Fee:   0.16$ (Sc:   28) | S: Breakout
+2026-04-06 00:26:11,335 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.35 | PnL: -4.39$ (   -4.39%) | S: Breakout
+2026-04-06 00:27:18,696 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-06 00:27:18,701 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.37 | Fee:   0.32$ (Sc:   32) | S: Breakout
+2026-04-06 00:28:26,355 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.39 | PnL: +14.48$ (  +14.48%) | S: Breakout
+2026-04-06 00:28:26,489 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.39 | Fee:   0.28$ (Sc:   34) | S: Breakout
+2026-04-06 00:28:52,100 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.43 | PnL: +16.54$ (  +16.54%) | S: Breakout
+2026-04-06 00:28:52,240 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 00:28:52,246 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.43 | Fee:   0.24$ (Sc:   54) | S: Breakout
+2026-04-06 00:29:03,498 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.41 | PnL: -7.81$ (   -7.81%) | S: Breakout
+2026-04-06 00:30:44,238 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.37 | Fee:   0.28$ (Sc:  -28) | S: Breakout
+2026-04-06 00:31:05,062 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.39 | PnL: -10.20$ (  -10.20%) | S: Breakout
+2026-04-06 00:31:06,531 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-06 00:31:06,531 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.40 | Fee:   0.32$ (Sc:   25) | S: Breakout
+2026-04-06 00:31:14,401 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.38 | PnL: -10.93$ (  -10.93%) | S: Breakout
+2026-04-06 00:35:21,488 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 00:35:21,488 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.40 | Fee:   0.16$ (Sc:   31) | S: Breakout
+2026-04-06 00:35:22,989 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.42 | PnL: +7.40$ (   +7.40%) | S: Breakout
+2026-04-06 00:36:14,795 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.43 | Fee:   0.28$ (Sc:   29) | S: Breakout
+2026-04-06 00:36:38,918 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.42 | PnL: -6.02$ (   -6.02%) | S: Breakout
+2026-04-06 00:36:44,041 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.41 | Fee:   0.28$ (Sc:  -25) | S: Breakout
+2026-04-06 00:38:29,379 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.39 | PnL: +7.95$ (   +7.95%) | S: Breakout
+2026-04-06 00:38:47,131 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-06 00:38:47,144 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.40 | Fee:   0.32$ (Sc:   26) | S: Breakout
+2026-04-06 00:39:37,850 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.42 | PnL: +9.39$ (   +9.39%) | S: Breakout
+2026-04-06 00:39:40,203 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 00:39:40,207 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.42 | Fee:   0.24$ (Sc:   37) | S: Breakout
+2026-04-06 00:39:46,540 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.42 | PnL: -3.95$ (   -3.95%) | S: Breakout
+2026-04-06 00:40:44,926 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 00:40:44,930 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.43 | Fee:   0.24$ (Sc:   33) | S: Breakout
+2026-04-06 00:40:47,468 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.45 | PnL: +8.22$ (   +8.22%) | S: Breakout
+2026-04-06 00:40:47,597 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 00:40:47,601 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.45 | Fee:   0.16$ (Sc:   55) | S: Breakout
+2026-04-06 00:40:50,089 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.44 | PnL: -3.24$ (   -3.24%) | S: Breakout
+2026-04-06 00:41:21,743 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 00:41:21,758 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.47 | Fee:   0.16$ (Sc:   62) | S: Breakout
+2026-04-06 00:42:03,798 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.50 | PnL: +6.88$ (   +6.88%) | S: Breakout
+2026-04-06 00:42:04,131 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.50 | Fee:   0.28$ (Sc:   63) | S: Breakout
+2026-04-06 00:42:15,620 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.53 | PnL: +14.58$ (  +14.58%) | S: Breakout
+2026-04-06 00:42:15,742 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.53 | Fee:   0.28$ (Sc:   49) | S: Breakout
+2026-04-06 00:42:41,892 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.57 | PnL: +17.05$ (  +17.05%) | S: Breakout
+2026-04-06 00:42:42,004 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.57 | Fee:   0.28$ (Sc:   50) | S: Breakout
+2026-04-06 00:42:48,028 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.61 | PnL: +16.80$ (  +16.80%) | S: Breakout
+2026-04-06 00:44:08,261 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.50 | Fee:   0.28$ (Sc:  -45) | S: Breakout
+2026-04-06 00:44:12,784 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.52 | PnL: -10.75$ (  -10.75%) | S: Breakout
+2026-04-06 00:46:47,333 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-06 00:46:47,335 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.50 | Fee:   0.32$ (Sc:  -45) | S: Breakout
+2026-04-06 00:46:51,196 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.47 | PnL: +15.35$ (  +15.35%) | S: Breakout
+2026-04-06 00:48:40,203 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.48 | Fee:   0.28$ (Sc:   25) | S: Breakout
+2026-04-06 00:48:54,415 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.46 | PnL: -9.17$ (   -9.17%) | S: Breakout
+2026-04-06 00:49:55,051 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 00:49:55,051 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.43 | Fee:   0.24$ (Sc:  -47) | S: Breakout
+2026-04-06 00:50:10,236 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.45 | PnL: -8.21$ (   -8.21%) | S: Breakout
+2026-04-06 00:51:42,413 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.46 | Fee:   0.28$ (Sc:   25) | S: Breakout
+2026-04-06 00:51:47,003 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.45 | PnL: -8.95$ (   -8.95%) | S: Breakout
+2026-04-06 00:55:17,916 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-06 00:55:17,929 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.44 | Fee:   0.32$ (Sc:  -25) | S: Breakout
+2026-04-06 00:55:55,093 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.41 | PnL: +12.50$ (  +12.50%) | S: Breakout
+2026-04-06 00:55:55,217 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 00:55:55,217 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.42 | Fee:   0.16$ (Sc:  -45) | S: Breakout
+2026-04-06 00:55:55,808 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.40 | PnL: +4.39$ (   +4.39%) | S: Breakout
+2026-04-06 00:57:08,543 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 00:57:08,549 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.39 | Fee:   0.24$ (Sc:  -28) | S: Breakout
+2026-04-06 00:57:15,502 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.40 | PnL: -4.95$ (   -4.95%) | S: Breakout
+2026-04-06 00:58:02,164 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.38 | Fee:   0.28$ (Sc:  -31) | S: Breakout
+2026-04-06 00:58:40,445 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.39 | PnL: -5.13$ (   -5.13%) | S: Breakout
+2026-04-06 00:58:49,241 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 00:58:49,248 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.37 | Fee:   0.16$ (Sc:  -65) | S: Breakout
+2026-04-06 00:59:06,014 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.38 | PnL: -4.30$ (   -4.30%) | S: Breakout
+2026-04-06 00:59:06,130 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 00:59:06,130 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.41 | Fee:   0.16$ (Sc:   55) | S: Breakout
+2026-04-06 00:59:06,615 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.44 | PnL: +8.01$ (   +8.01%) | S: Breakout
+2026-04-06 00:59:06,740 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 00:59:06,740 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.43 | Fee:   0.16$ (Sc:   43) | S: Breakout
+2026-04-06 00:59:07,706 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.42 | PnL: -4.44$ (   -4.44%) | S: Breakout
+2026-04-06 00:59:27,510 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 00:59:27,518 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.45 | Fee:   0.24$ (Sc:   39) | S: Breakout
+2026-04-06 00:59:36,533 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.43 | PnL: -7.60$ (   -7.60%) | S: Breakout
+2026-04-06 01:02:14,921 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.40 | Fee:   0.28$ (Sc:  -44) | S: Breakout
+2026-04-06 01:02:55,377 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.42 | PnL: -6.06$ (   -6.06%) | S: Breakout
+2026-04-06 01:03:53,579 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.43 | Fee:   0.28$ (Sc:   25) | S: Breakout
+2026-04-06 01:04:21,617 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.41 | PnL: -7.49$ (   -7.49%) | S: Breakout
+2026-04-06 01:05:49,158 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-06 01:05:49,158 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.40 | Fee:   0.32$ (Sc:  -25) | S: Breakout
+2026-04-06 01:06:15,092 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.38 | PnL: +14.23$ (  +14.23%) | S: Breakout
+2026-04-06 01:06:15,202 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.37 | Fee:   0.28$ (Sc:  -43) | S: Breakout
+2026-04-06 01:06:46,780 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.35 | PnL: +12.43$ (  +12.43%) | S: Breakout
+2026-04-06 01:06:46,933 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.35 | Fee:   0.28$ (Sc:  -38) | S: Breakout
+2026-04-06 01:06:54,718 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.36 | PnL: -6.72$ (   -6.72%) | S: Breakout
+2026-04-06 01:08:37,865 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 01:08:37,874 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.33 | Fee:   0.16$ (Sc:  -46) | S: Breakout
+2026-04-06 01:08:50,298 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.34 | PnL: -4.19$ (   -4.19%) | S: Breakout
+2026-04-06 01:09:20,374 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 01:09:20,379 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.33 | Fee:   0.24$ (Sc:  -29) | S: Breakout
+2026-04-06 01:10:00,398 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.33 | PnL: -2.53$ (   -2.53%) | S: Breakout
+2026-04-06 01:11:06,763 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 8x     | R: ATR < Mean 5%: Tăng nhẹ Leverage.
+2026-04-06 01:11:06,778 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.35 | Fee:   0.32$ (Sc:   39) | S: Breakout
+2026-04-06 01:11:36,959 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.34 | PnL: -7.17$ (   -7.17%) | S: Breakout
+2026-04-06 01:11:46,807 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 01:11:46,807 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.33 | Fee:   0.16$ (Sc:  -26) | S: Breakout
+2026-04-06 01:12:02,402 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.34 | PnL: -3.05$ (   -3.05%) | S: Breakout
+2026-04-06 01:13:12,749 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.33 | Fee:   0.28$ (Sc:  -30) | S: Breakout
+2026-04-06 01:13:52,338 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.31 | PnL: +8.53$ (   +8.53%) | S: Breakout
+2026-04-06 01:13:52,472 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 01:13:52,477 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.31 | Fee:   0.16$ (Sc:  -47) | S: Breakout
+2026-04-06 01:13:53,358 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.32 | PnL: -3.02$ (   -3.02%) | S: Breakout
+2026-04-06 01:14:03,854 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 01:14:03,860 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.35 | Fee:   0.24$ (Sc:   48) | S: Breakout
+2026-04-06 01:14:04,120 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.34 | PnL: -4.73$ (   -4.73%) | S: Breakout
+2026-04-06 01:14:22,900 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 01:14:22,905 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.35 | Fee:   0.24$ (Sc:   26) | S: Breakout
+2026-04-06 01:15:06,523 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.34 | PnL: -3.65$ (   -3.65%) | S: Breakout
+2026-04-06 01:15:08,042 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.34 | Fee:   0.28$ (Sc:  -29) | S: Breakout
+2026-04-06 01:15:48,602 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.34 | PnL: -0.58$ (   -0.58%) | S: Breakout
+2026-04-06 01:16:39,039 - INFO - [ IN  ] XRP/USDT  SELL | Entry:      1.31 | Fee:   0.28$ (Sc:  -26) | S: Breakout
+2026-04-06 01:16:58,150 - INFO - [ OUT ] XRP/USDT  SELL | Price:      1.33 | PnL: -7.63$ (   -7.63%) | S: Breakout
+2026-04-06 01:17:01,637 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 01:17:01,639 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.34 | Fee:   0.24$ (Sc:   26) | S: Breakout
+2026-04-06 01:17:03,262 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.32 | PnL: -6.65$ (   -6.65%) | S: Breakout
+2026-04-06 01:17:44,263 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 01:17:44,267 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.35 | Fee:   0.24$ (Sc:   25) | S: Breakout
+2026-04-06 01:17:53,315 - INFO - [ OUT ] XRP/USDT  BUY  | Price:      1.33 | PnL: -7.12$ (   -7.12%) | S: Breakout
+2026-04-06 01:18:04,046 - INFO - ╔══════════════════════════════════════════════════╗
+2026-04-06 01:18:04,046 - INFO - ║               📊 KẾT QUẢ BACKTEST                ║
+2026-04-06 01:18:04,048 - INFO - ╚══════════════════════════════════════════════════╝
+2026-04-06 01:18:04,048 - INFO - Vốn ban đầu : 10,000.00$
+2026-04-06 01:18:04,048 - INFO - Vốn cuối cùng: 9,905.60$
+2026-04-06 01:18:04,048 - INFO - Lợi nhuận ròng: -94.40$ (-0.94%)
+2026-04-06 01:18:04,054 - INFO - Tổng số lệnh  : 214
+2026-04-06 01:18:04,058 - INFO - Thắng: 69 | Thua: 145
+2026-04-06 01:18:04,059 - INFO - Tỷ lệ thắng (Winrate): 32.24%
+2026-04-06 01:18:04,105 - INFO - 💾 Đã lưu chi tiết lịch sử lệnh tại:
+   d:\The V\KAIROS QUANT SYSTEM v1.0\du_lieu\thong_tin_lenh\ket_qua_backtest_1775413084.csv
+2026-04-06 09:02:17,588 - ERROR - ❌ Lỗi kết nối sàn bybit: bybit {"retCode":33004,"retMsg":"Your api key has expired.","result":{},"retExtInfo":{},"time":1775440937948}
+2026-04-06 09:02:24,253 - INFO -  ╔══════════════════════════════════════════════════╗
+2026-04-06 09:02:24,254 - INFO -  ║        🚀 KHỞI ĐỘNG PAPER TRADING (DEMO)         ║
+2026-04-06 09:02:24,254 - INFO -  ╚══════════════════════════════════════════════════╝
+2026-04-06 09:02:24,254 - INFO -  💰 Vốn giả lập       :       10,000.00$
+2026-04-06 09:02:24,255 - INFO -  🏦 Sàn dữ liệu       :             OKX
+2026-04-06 09:02:24,255 - INFO -  📦 Max Orders        :              20
+2026-04-06 09:02:24,256 - INFO -  [demo] 📂 Đã khôi phục 0 lệnh đang treo.
+2026-04-06 09:02:24,256 - INFO -  [demo] 📜 Đã khôi phục 0 dòng lịch sử.
+2026-04-06 09:02:24,257 - INFO - ────────────────────────────────────────────────────
+2026-04-06 09:02:24,259 - INFO - 🎮 [DEMO] Bắt đầu quét thị trường (Vốn: 10,000.00$)...
+2026-04-06 09:02:24,260 - INFO - 🛡️ [DEMO] Bắt đầu quản lý vị thế...
+2026-04-06 09:10:22,150 - INFO - 🔔 Tín hiệu BUY cho INJ/USDT (Điểm: 25.00)
+2026-04-06 09:10:22,162 - INFO - [ IN  ] INJ/USDT  BUY  | Entry:      2.87 | Fee:   0.28$ (Sc:   25) | S: Breakout
+2026-04-06 09:10:58,819 - INFO - [LEV  ] BONK/USDT  LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 09:10:58,825 - INFO - 🔔 Tín hiệu BUY cho BONK/USDT (Điểm: 33.00)
+2026-04-06 09:10:58,834 - INFO - [ IN  ] BONK/USDT BUY  | Entry:      0.00 | Fee:   0.24$ (Sc:   33) | S: Breakout
+2026-04-06 09:11:03,808 - INFO - 🔔 Tín hiệu BUY cho CRV/USDT (Điểm: 26.00)
+2026-04-06 09:11:03,816 - INFO - [ IN  ] CRV/USDT  BUY  | Entry:      0.22 | Fee:   0.28$ (Sc:   26) | S: Breakout
+2026-04-06 09:11:16,323 - INFO - [LEV  ] PUMP/USDT  LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 09:11:16,323 - INFO - 🔔 Tín hiệu BUY cho PUMP/USDT (Điểm: 43.00)
+2026-04-06 09:11:16,328 - INFO - [ IN  ] PUMP/USDT BUY  | Entry:      0.00 | Fee:   0.24$ (Sc:   43) | S: Breakout
+2026-04-06 09:11:24,586 - INFO - [LEV  ] XRP/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 09:11:24,588 - INFO - 🔔 Tín hiệu BUY cho XRP/USDT (Điểm: 51.00)
+2026-04-06 09:11:24,590 - INFO - [ IN  ] XRP/USDT  BUY  | Entry:      1.35 | Fee:   0.16$ (Sc:   51) | S: Breakout
+2026-04-06 09:11:25,361 - INFO - 🔔 Tín hiệu BUY cho ADA/USDT (Điểm: 66.00)
+2026-04-06 09:11:25,380 - INFO - [ IN  ] ADA/USDT  BUY  | Entry:      0.26 | Fee:   0.28$ (Sc:   66) | S: Breakout
+2026-04-06 09:11:32,225 - INFO - 🔴 [DEMO ĐÓNG] ADA/USDT | Lý do: Chạm giá SL (0.2564 <= 0.25662397953947075) | Giá: 0.26 | PnL: -6.30$
+2026-04-06 09:11:32,663 - INFO - 🔔 Tín hiệu BUY cho SUI/USDT (Điểm: 40.00)
+2026-04-06 09:11:32,663 - INFO - [ IN  ] SUI/USDT  BUY  | Entry:      0.89 | Fee:   0.28$ (Sc:   40) | S: Breakout
+2026-04-06 09:11:37,497 - INFO - [LEV  ] FLOKI/USDT  LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 09:11:37,497 - INFO - 🔔 Tín hiệu BUY cho FLOKI/USDT (Điểm: 51.00)
+2026-04-06 09:11:37,502 - INFO - [ IN  ] FLOKI/USDT BUY  | Entry:      0.00 | Fee:   0.16$ (Sc:   51) | S: Breakout
+2026-04-06 09:11:38,298 - INFO - 🔔 Tín hiệu BUY cho TIA/USDT (Điểm: 28.00)
+2026-04-06 09:11:38,323 - INFO - [ IN  ] TIA/USDT  BUY  | Entry:      0.29 | Fee:   0.28$ (Sc:   28) | S: Breakout
+2026-04-06 09:11:39,994 - INFO - [LEV  ] LDO/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 09:11:39,994 - INFO - 🔔 Tín hiệu BUY cho LDO/USDT (Điểm: 36.00)
+2026-04-06 09:11:40,002 - INFO - [ IN  ] LDO/USDT  BUY  | Entry:      0.32 | Fee:   0.16$ (Sc:   36) | S: Breakout
+2026-04-06 09:11:40,868 - INFO - [LEV  ] AAVE/USDT  LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 09:11:40,868 - INFO - 🔔 Tín hiệu BUY cho AAVE/USDT (Điểm: 56.00)
+2026-04-06 09:11:40,868 - INFO - [ IN  ] AAVE/USDT BUY  | Entry:     95.63 | Fee:   0.16$ (Sc:   56) | S: Breakout
+2026-04-06 09:11:41,218 - INFO - 🔴 [DEMO ĐÓNG] SUI/USDT | Lý do: Chạm giá SL (0.8838 <= 0.8841830303356245) | Giá: 0.88 | PnL: -5.85$
+2026-04-06 09:11:46,925 - INFO - [LEV  ] GALA/USDT  LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 09:11:46,927 - INFO - 🔔 Tín hiệu BUY cho GALA/USDT (Điểm: 45.00)
+2026-04-06 09:11:46,933 - INFO - [ IN  ] GALA/USDT BUY  | Entry:      0.00 | Fee:   0.24$ (Sc:   45) | S: Breakout
+2026-04-06 09:11:47,881 - INFO - [LEV  ] SAND/USDT  LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 09:11:47,882 - INFO - 🔔 Tín hiệu BUY cho SAND/USDT (Điểm: 37.00)
+2026-04-06 09:11:47,891 - INFO - [ IN  ] SAND/USDT BUY  | Entry:      0.08 | Fee:   0.24$ (Sc:   37) | S: Breakout
+2026-04-06 09:12:01,416 - INFO - 🔔 Tín hiệu BUY cho ETH/USDT (Điểm: 56.00)
+2026-04-06 09:12:01,429 - INFO - [ IN  ] ETH/USDT  BUY  | Entry:   2136.54 | Fee:   0.28$ (Sc:   56) | S: Breakout
+2026-04-06 09:12:04,099 - INFO - [LEV  ] ADA/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 09:12:04,099 - INFO - 🔔 Tín hiệu BUY cho ADA/USDT (Điểm: 42.00)
+2026-04-06 09:12:04,119 - INFO - [ IN  ] ADA/USDT  BUY  | Entry:      0.26 | Fee:   0.16$ (Sc:   42) | S: Breakout
+2026-04-06 09:12:07,344 - INFO - [LEV  ] LINK/USDT  LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 09:12:07,345 - INFO - 🔔 Tín hiệu BUY cho LINK/USDT (Điểm: 57.00)
+2026-04-06 09:12:07,357 - INFO - [ IN  ] LINK/USDT BUY  | Entry:      9.00 | Fee:   0.16$ (Sc:   57) | S: Breakout
+2026-04-06 09:12:09,515 - INFO - 🔔 Tín hiệu BUY cho BCH/USDT (Điểm: 30.00)
+2026-04-06 09:12:09,521 - INFO - [ IN  ] BCH/USDT  BUY  | Entry:    434.04 | Fee:   0.28$ (Sc:   30) | S: Breakout
+2026-04-06 09:12:11,613 - INFO - 🔔 Tín hiệu BUY cho SUI/USDT (Điểm: 47.00)
+2026-04-06 09:12:11,626 - INFO - [ IN  ] SUI/USDT  BUY  | Entry:      0.89 | Fee:   0.28$ (Sc:   47) | S: Breakout
+2026-04-06 09:13:23,637 - INFO - [LEV  ] YGG/USDT   LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 09:13:23,639 - INFO - 🔔 Tín hiệu BUY cho YGG/USDT (Điểm: 36.00)
+2026-04-06 09:13:23,653 - INFO - [ IN  ] YGG/USDT  BUY  | Entry:      0.04 | Fee:   0.24$ (Sc:   36) | S: Breakout
+2026-04-06 09:13:42,548 - INFO - [LEV  ] OP/USDT    LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 09:13:42,548 - INFO - 🔔 Tín hiệu BUY cho OP/USDT (Điểm: 42.00)
+2026-04-06 09:13:42,562 - INFO - [ IN  ] OP/USDT   BUY  | Entry:      0.11 | Fee:   0.16$ (Sc:   42) | S: Breakout
+2026-04-06 09:14:22,530 - INFO - [LEV  ] CHZ/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 09:14:22,532 - INFO - 🔔 Tín hiệu BUY cho CHZ/USDT (Điểm: 36.00)
+2026-04-06 09:14:22,552 - INFO - [ IN  ] CHZ/USDT  BUY  | Entry:      0.04 | Fee:   0.16$ (Sc:   36) | S: Breakout
+2026-04-06 09:14:36,040 - INFO - [LEV  ] DOT/USDT   LEV |     7x -> 4x     | R: TIN MẠNH => Biến động & Volume đột biến.
+2026-04-06 09:14:36,041 - INFO - 🔔 Tín hiệu BUY cho DOT/USDT (Điểm: 36.00)
+2026-04-06 09:14:36,050 - INFO - [ IN  ] DOT/USDT  BUY  | Entry:      1.27 | Fee:   0.16$ (Sc:   36) | S: Breakout
+2026-04-06 09:14:43,870 - INFO - 🔔 Tín hiệu BUY cho SUSHI/USDT (Điểm: 34.00)
+2026-04-06 09:14:43,879 - INFO - [ IN  ] SUSHI/USDT BUY  | Entry:      0.20 | Fee:   0.28$ (Sc:   34) | S: Breakout
+2026-04-06 09:23:34,590 - INFO - 🔴 [DEMO ĐÓNG] FLOKI/USDT | Lý do: Chạm giá SL (2.77e-05 <= 2.771103538964914e-05) | Giá: 0.00 | PnL: -3.09$
+2026-04-06 09:43:27,997 - INFO - 🔴 [DEMO ĐÓNG] BONK/USDT | Lý do: Chạm giá SL (5.835e-06 <= 5.8377464973648235e-06) | Giá: 0.00 | PnL: -5.68$
+2026-04-06 09:51:37,568 - INFO - [LEV  ] DYDX/USDT  LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 09:51:37,569 - INFO - 🔔 Tín hiệu BUY cho DYDX/USDT (Điểm: 39.00)
+2026-04-06 09:51:37,575 - INFO - [ IN  ] DYDX/USDT BUY  | Entry:      0.10 | Fee:   0.24$ (Sc:   39) | S: Breakout
+2026-04-06 10:19:29,633 - INFO - 🔴 [DEMO ĐÓNG] LDO/USDT | Lý do: Chạm giá SL (0.3209 <= 0.32100584767969387) | Giá: 0.32 | PnL: -3.08$
+2026-04-06 10:20:10,625 - INFO - 🔴 [DEMO ĐÓNG] OP/USDT | Lý do: Chạm giá SL (0.1111 <= 0.11112847508686324) | Giá: 0.11 | PnL: -3.35$
+2026-04-06 10:20:27,474 - WARNING - ⚠️ [DEMO MANAGER] Xử lý chậm BCH/USDT: 2170ms
+2026-04-06 10:22:40,634 - INFO - 🔴 [DEMO ĐÓNG] ADA/USDT | Lý do: Chạm giá SL (0.2562 <= 0.2564231881108993) | Giá: 0.26 | PnL: -3.61$
+2026-04-06 10:23:29,125 - INFO - 🔴 [DEMO ĐÓNG] SAND/USDT | Lý do: Chạm giá SL (0.07746 <= 0.07748523239493707) | Giá: 0.08 | PnL: -4.32$
+2026-04-06 10:40:41,334 - INFO - 🔴 [DEMO ĐÓNG] XRP/USDT | Lý do: Chạm giá SL (1.337 <= 1.3373033589130707) | Giá: 1.34 | PnL: -2.79$
+2026-04-06 10:41:28,992 - INFO - 🔴 [DEMO ĐÓNG] LINK/USDT | Lý do: Chạm giá SL (8.938 <= 8.938818924190205) | Giá: 8.94 | PnL: -2.87$
+2026-04-06 10:58:27,095 - INFO - 🔴 [DEMO ĐÓNG] GALA/USDT | Lý do: Chạm giá SL (0.002938 <= 0.002939537581495876) | Giá: 0.00 | PnL: -4.91$
+2026-04-06 11:07:47,341 - INFO - 🔴 [DEMO ĐÓNG] SUSHI/USDT | Lý do: Chạm giá SL (0.1943 <= 0.19431309293896673) | Giá: 0.19 | PnL: -4.67$
+2026-04-06 11:08:13,400 - INFO - 🔴 [DEMO ĐÓNG] CHZ/USDT | Lý do: Tín hiệu đảo chiều (1M: Phá gáy (Vol: DOT_BIEN); 3M: Phá gáy (Vol: DOT_BIEN); 5M: Phá gáy (Vol: TANG); OrderFlow xác nhận áp lực BÁN) | Giá: 0.04 | PnL: -3.26$
+2026-04-06 11:12:44,065 - INFO - 🔴 [DEMO ĐÓNG] DOT/USDT | Lý do: Chạm giá SL (1.255 <= 1.2559338781488372) | Giá: 1.26 | PnL: -3.11$
+2026-04-06 11:35:43,483 - INFO - [LEV  ] RENDER/USDT  LEV |     7x -> 6x     | R: ATR > Mean 5%: Giảm nhẹ Leverage.
+2026-04-06 11:35:43,487 - INFO - 🔔 Tín hiệu BUY cho RENDER/USDT (Điểm: 28.00)
+2026-04-06 11:35:43,494 - INFO - [ IN  ] RENDER/USDT BUY  | Entry:      1.98 | Fee:   0.24$ (Sc:   28) | S: Breakout
+2026-04-06 11:36:09,535 - WARNING - ⚠️ [DEMO MANAGER] Xử lý chậm ETH/USDT: 2152ms
+2026-04-06 11:36:21,124 - WARNING - ⚠️ [DEMO MANAGER] Xử lý chậm INJ/USDT: 2153ms
+2026-04-06 11:37:58,026 - INFO - 🔔 Tín hiệu BUY cho WIF/USDT (Điểm: 28.00)
+2026-04-06 11:37:58,043 - INFO - [ IN  ] WIF/USDT  BUY  | Entry:      0.19 | Fee:   0.28$ (Sc:   28) | S: Breakout
+2026-04-06 11:38:07,346 - INFO - 🔔 Tín hiệu BUY cho SAND/USDT (Điểm: 44.00)
+2026-04-06 11:38:07,368 - INFO - [ IN  ] SAND/USDT BUY  | Entry:      0.08 | Fee:   0.28$ (Sc:   44) | S: Breakout

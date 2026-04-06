@@ -1,0 +1,21 @@
+﻿binance:
+  type: "future"
+  maker_fee: 0.0002
+  taker_fee: 0.0004
+  min_notional: 5.0 
+  max_leverage: 125
+  api_url: "https://fapi.binance.com"
+
+okx:
+  type: "swap"
+  maker_fee: 0.0002
+  taker_fee: 0.0005
+  min_notional: 10.0
+  max_leverage: 100
+
+bybit:
+  type: "linear"
+  maker_fee: 0.0001
+  taker_fee: 0.0006
+  min_notional: 1.0
+  max_leverage: 100
