@@ -242,8 +242,9 @@ KAIROS_QUANT_SYSTEM_v2.0/
 │
 ├── ml/                             # KHỐI MACHINE LEARNING (AI Core)
 │   ├── main.py                     # Luồng điều phối ML: Huấn luyện, chạy Dashboard, Auto-Learning
-│   ├── data_filter.py              # Xử lý nhiễu và cân bằng dữ liệu log (trading_memory.csv)
-│   ├── trading_teacher.py          # Hệ thống chuyên gia: Tính toán kỹ thuật (RSI, VWAP, EMA) gán nhãn
+│   ├── tool/                       # Module công cụ hổ trợ
+│   │   ├── data_filter.py          # Xử lý nhiễu và cân bằng dữ liệu log (trading_memory.csv)
+│   │   └── trading_teacher.py      # Hệ thống chuyên gia: Tính toán kỹ thuật (RSI, VWAP, EMA) gán nhãn
 │   └── trang_thai_thi_truong_ml/   # Module phân loại trạng thái thị trường chuyên sâu
 │       ├── ml_model.py             # Kiến trúc mạng Neural (TradingMLP, ResBlock, BatchNorm)
 │       ├── ml_predict.py           # Logic dự đoán Realtime & Đánh giá hiệu quả (PnL/Reward)
