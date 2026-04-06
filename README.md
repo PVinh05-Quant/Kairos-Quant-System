@@ -372,7 +372,7 @@ Mã nguồn được chia sẻ tại kho lưu trữ này chỉ là phiên bản 
 
 ### 👨‍💻 THÔNG TIN TÁC GIẢ (AUTHOR & ARCHITECT)
 
-  * **System Architect & Logic Designer:** P Vinh
+  * **System Architect & Logic Designer:** P Vinh + AI
   * **Role:** Quant Developer / Quant Researcher
   * **Contact:** ppvinh15132@gmail.com
   * **Development Methodology:** Human Logic + AI Assisted Coding (Prompt Engineering).
