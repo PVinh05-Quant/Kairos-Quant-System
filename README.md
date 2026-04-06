@@ -256,10 +256,10 @@ KAIROS_QUANT_SYSTEM_v2.0/
 │           ├── scaler_params.json  # Tham số chuẩn hóa dữ liệu đầu vào (Mean/Std)
 │           └── trading_memory.csv  # Nhật ký kinh nghiệm dùng làm tập dữ liệu học máy
 │
-├── lay_du_lieu/                # KHỐI ETL & API (Data Acquisition)
-│   ├── lay_ohlcv.py            # Kéo nến lịch sử đa khung thời gian
-│   ├── lay_marketsnapshot.py   # Lấy dữ liệu Realtime (Orderbook, Ticker, Liquidation)
-│   └── lay_thong_tin_tai_khoan.py
+├── lay_du_lieu/                    # KHỐI ETL & API (Data Acquisition)
+│   ├── lay_ohlcv.py                # Kéo nến lịch sử đa khung thời gian
+│   ├── lay_marketsnapshot.py       # Lấy dữ liệu Realtime (Orderbook, Ticker, Liquidation)
+│   └── lay_thong_tin_tai_khoan.py  # Lấy thông tin tài khoản
 │
 ├── chien_luoc/                 # KHỐI CORE LOGIC (Strategy)
 │   ├── logic_vectorized/       # Thuật toán ma trận dùng cho Backtest quy mô lớn
@@ -283,6 +283,7 @@ KAIROS_QUANT_SYSTEM_v2.0/
 │   └── dashboard_demo.py       # Giám sát hiệu quả giao dịch thử nghiệm
 │
 ├── du_lieu/                    # KHO LƯU TRỮ DỮ LIỆU HỆ THỐNG
+│   ├── lich_su_gia/            # CSV/Parquet chứa nến lịch sử kết quả backtest
 │   ├── du_lieu_vectorized/     # CSV/Parquet chứa nến lịch sử đã làm sạch
 │   ├── thong_tin_lenh/         # Trạng thái JSON các lệnh đang mở/lịch sử lệnh
 │   └── nhat_ky_hoat_dong.log   # Logs chi tiết lỗi và hoạt động hệ thống
