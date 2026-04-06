@@ -1,4 +1,4 @@
-﻿# 🤖 KAIROS QUANT SYSTEM
+# 🤖 KAIROS QUANT SYSTEM
 
 **HỆ SINH THÁI GIAO DỊCH ĐỊNH LƯỢNG TỰ ĐỘNG & PHÂN TÍCH DỮ LIỆU CHUYÊN SÂU CHO THỊ TRƯỜNG CRYPTOCURRENCY**
 
@@ -107,18 +107,18 @@ Hệ thống được thiết kế theo chuẩn Modular Architecture, phân tác
 
 ```mermaid
 graph TD
-    A[Data Fetcher - CCXT API] -->|Raw OHLCV & Orderbook| B(ETL Data Processor)
-    B -->|Cleaned Vectorized Data| C{AI/ML Market Filter}
-    C -->|Market State: Ranging/Trending| D[Multi-Strategy Scoring Engine]
-    D -->|Signal + Voting Score| E{Risk Management & Position Sizing}
-    E -->|Approved Signal| F[Execution Engine]
-    E -->|Rejected Signal| B
-    F -->|Open/Close Order| G[Exchange Live Server]
-    F -->|Trade Info| H[Position Manager - SL/TP]
+    A[Thu thập Dữ liệu - CCXT API] -->|Dữ liệu thô OHLCV & Sổ lệnh| B(Bộ Xử lý Dữ liệu ETL)
+    B -->|Dữ liệu Sạch Vector hóa| C{Bộ lọc Thị trường AI/ML}
+    C -->|Trạng thái: Đi ngang/Có xu hướng| D[Hệ thống Chấm điểm Đa chiến lược]
+    D -->|Tín hiệu + Điểm bỏ phiếu| E{Quản trị Rủi ro & Tính Toán Đi Vốn}
+    E -->|Tín hiệu Hợp lệ| F[Động cơ Thực thi Lệnh]
+    E -->|Tín hiệu Bị từ chối| B
+    F -->|Mở/Đóng Lệnh| G[Máy chủ Sàn Giao dịch]
+    F -->|Thông tin Giao dịch| H[Quản lý Vị thế - Cắt lỗ/Chốt lời]
     H --> G
     
-    I[Vectorized Backtest Engine] -->|Historical Data| D
-    I -->|Trade Logs| J[PyQt6 Professional Dashboard]
+    I[Động cơ Backtest Vector hóa] -->|Dữ liệu Lịch sử| D
+    I -->|Nhật ký Giao dịch| J[Bảng điều khiển PyQt6 Chuyên nghiệp]
 ````
 
 1.  **Lớp Dữ liệu (`/lay_du_lieu`):** Đóng vai trò là hệ thống ETL (Extract-Transform-Load), chịu trách nhiệm kết nối trực tiếp với API các sàn giao dịch để kéo dữ liệu nến (OHLCV) và thông tin tài khoản. Lớp này thực hiện gộp nến (Resampling) đa khung thời gian, xử lý các lỗ hổng dữ liệu (Fill NA), định dạng lại chuỗi thời gian (Time-series) và chuẩn bị dữ liệu đầu vào sạch cho các bộ lọc phía sau.
@@ -362,6 +362,11 @@ Với vai trò là người thiết kế hệ thống (Kiến trúc sư), địn
 1.  Thị trường Cryptocurrency rủi ro cực kỳ cao. Bot KAIROS phân tích dựa trên Xác suất thống kê (Statistical Probability) dựa trên dữ liệu quá khứ, **KHÔNG có khả năng dự đoán tương lai chính xác 100%**. Lợi nhuận trong quá khứ không đảm bảo cho tương lai.
 2.  **System Bug:** Mặc dù đã được kiểm thử (Unit test/Integration test), phần mềm vẫn có thể tồn tại lỗi không lường trước (Bug), hoặc rủi ro về độ trễ mạng lưới, lỗi từ API của Sàn giao dịch.
 3.  Người dùng hoàn toàn chịu trách nhiệm cho các quyết định cấu hình vốn, đòn bẩy và API Keys của mình. Tác giả không chịu trách nhiệm cho bất kỳ tổn thất tài chính nào phát sinh trong quá trình sử dụng hệ thống.
+
+-----
+
+📌 **LƯU Ý QUAN TRỌNG VỀ MÃ NGUỒN (SOURCE CODE NOTICE):**
+Mã nguồn được chia sẻ tại kho lưu trữ này chỉ là phiên bản nền tảng sơ khai nhất (v1.0). Nhằm bảo vệ quyền sở hữu trí tuệ và lợi thế giao dịch (Alpha), rất nhiều công năng lõi, thuật toán nâng cao và cơ chế thực chiến đã được cắt giảm. Các phiên bản nâng cấp mới nhất và hoàn thiện nhất của hệ thống KAIROS sẽ **không được công khai (Closed-source)**. Phiên bản mã nguồn mở này chủ yếu đóng vai trò là một Proof-of-Concept (Bản minh họa) về kiến trúc và tư duy xây dựng hệ thống Quant Trading.
 
 -----
 
