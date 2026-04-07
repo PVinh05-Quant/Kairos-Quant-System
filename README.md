@@ -376,7 +376,7 @@ Mã nguồn được chia sẻ tại kho lưu trữ này chỉ là phiên bản 
 
   * **System Architect & Logic Designer:** P Vinh + AI
   * **Role:** Quant Developer / Quant Researcher
-  * **Contact:** ppvinh15132@gmail.com
+  * **Contact:** ppvinh1513@gmail.com
   * **Development Methodology:** Human Logic + AI Assisted Coding (Prompt Engineering).
 
 *“Romain Rolland: "There is only one heroism in the world: to see the world as it is, and to love it."”*
