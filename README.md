@@ -1,5 +1,4 @@
-# <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/e4694bf1-b4a9-4624-bed0-30dfb5e25bb4" />
- KAIROS QUANT SYSTEM
+# <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/e4694bf1-b4a9-4624-bed0-30dfb5e25bb4" /> KAIROS QUANT SYSTEM
 
 **HỆ SINH THÁI GIAO DỊCH ĐỊNH LƯỢNG TỰ ĐỘNG & PHÂN TÍCH DỮ LIỆU CHUYÊN SÂU CHO THỊ TRƯỜNG CRYPTOCURRENCY**
 
