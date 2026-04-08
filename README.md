@@ -274,6 +274,7 @@ KAIROS_QUANT_SYSTEM_v2.0/
 │
 ├── chuc_nang/                  # CÁC CHẾ ĐỘ VẬN HÀNH (Operation Modes)
 │   ├── backtest_donluong.py    # Engine chạy Backtest kiểm thử chiến thuật
+│   ├── backtest_daluong.py     # Engine chạy Backtest kiểm thử chiến thuật song song nhiều luồng
 │   ├── vectorized_backtest.py  # Backtest siêu tốc bằng phương pháp Vector hóa
 │   ├── chay_demo.py            # Kích hoạt Paper Trading (Giao dịch ảo Realtime)
 │   └── chay_realtime.py        # Kích hoạt Live Trading (Giao dịch thật trên sàn)
