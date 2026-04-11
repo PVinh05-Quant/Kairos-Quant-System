@@ -6,10 +6,14 @@
 
 - Xây dựng hệ thống phân tích dữ liệu giao dịch end-to-end từ nhiều nguồn (Binance, OKX, Bybit)  
 - Xử lý và phân tích dữ liệu thị trường quy mô lớn bằng kỹ thuật vectorization (Pandas/Polars)  
-- Phát triển hệ thống backtesting phục vụ đánh giá và tối ưu chiến lược giao dịch ![$RV424Z6](https://github.com/user-attachments/assets/477bf408-9666-4e02-b558-eff56d626924)
-
+- Phát triển hệ thống backtesting phục vụ đánh giá và tối ưu chiến lược giao dịch
 - Ứng dụng Machine Learning để phân loại trạng thái thị trường (trend, breakout, mean-reversion)  
-- Tối ưu quy trình phân tích dữ liệu, giúp nâng cao tốc độ xử lý và hỗ trợ ra quyết định hiệu quả hơn  
+- Tối ưu quy trình phân tích dữ liệu, giúp nâng cao tốc độ xử lý và hỗ trợ ra quyết định hiệu quả hơn
+ 
+### 📊 Minh họa Backtesting
+
+![$RV424Z6](https://github.com/user-attachments/assets/4883c4f4-e1ca-4e34-b806-220ae38faccc)
+
 
 ## 📊 Kết quả đạt được (Key Results)
 
