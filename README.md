@@ -41,14 +41,14 @@
 
 **KAIROS QUANT SYSTEM** không chỉ là một trading bot — mà là một **Hệ sinh thái giao dịch định lượng (Quantitative Trading Ecosystem)** được thiết kế để vận hành theo nguyên tắc **data-driven, xác suất và tự động hóa hoàn toàn**.
 
-Tầm nhìn của hệ thống là xây dựng một **cỗ máy ra quyết định giao dịch không cảm xúc**, nơi mọi hành động đều được dẫn dắt bởi dữ liệu, mô hình thống kê và logic định lượng.
+Tầm nhìn của hệ thống là xây dựng một **a systematic, data-driven decision engine designed to minimize emotional bias**, nơi mọi hành động đều được dẫn dắt bởi dữ liệu, mô hình thống kê và logic định lượng.
 
 **Triết lý cốt lõi:**
 **“Tư duy chiến lược của con người – tốc độ và kỷ luật tuyệt đối của máy móc.”**
 
 ### Kiến trúc vận hành
 
-* **System Architect – Bộ não chiến lược:** Tôi đóng vai trò thiết kế kiến trúc tổng thể của hệ thống: từ logic giao dịch, pipeline dữ liệu (ETL), mô hình quản trị rủi ro, đến cơ chế chấm điểm và tối ưu hóa chiến lược. Mọi quyết định đều được chuẩn hóa thành thuật toán có thể kiểm chứng bằng dữ liệu lịch sử.
+* **System Architect – Bộ não chiến lược:** thiết kế kiến trúc tổng thể của hệ thống: từ logic giao dịch, pipeline dữ liệu (ETL), mô hình quản trị rủi ro, đến cơ chế chấm điểm và tối ưu hóa chiến lược. Mọi quyết định đều được chuẩn hóa thành thuật toán có thể kiểm chứng bằng dữ liệu lịch sử.
 * **AI & Automation – Bộ máy thực thi:** AI và Automation được sử dụng để tăng tốc quá trình phát triển, tối ưu hóa mã nguồn và áp dụng Machine Learning vào việc phân loại tín hiệu thị trường, nhận diện mẫu hành vi giá và cải thiện hiệu suất chiến lược theo thời gian thực.
 
 ### Mục tiêu hệ thống
@@ -392,7 +392,7 @@ Mã nguồn được chia sẻ tại kho lưu trữ này chỉ là phiên bản 
 
 ### 👨‍💻 THÔNG TIN TÁC GIẢ (AUTHOR & ARCHITECT)
 
-  * **System Architect & Logic Designer:** P Vinh + AI
+  * **System Architect & Logic Designer:** P Vinh (Quant Developer) AI-assisted development workflow
   * **Role:** Quant Developer / Quant Researcher
   * **Contact:** ppvinh1513@gmail.com
   * **Development Methodology:** Human Logic + AI Assisted Coding (Prompt Engineering).
