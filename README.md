@@ -207,6 +207,8 @@ KAIROS sở hữu một phần mềm Desktop chuyên dụng được xây dựng
   * **Daily PnL & Intraday Equity Curve:** Biểu đồ hiển thị lợi nhuận từng ngày. Click vào một ngày cụ thể để phân tích chi tiết từng lệnh được đánh trong ngày hôm đó.
   * **Heatmap & Time Distribution:** Biểu đồ nhiệt phân tích hành vi giá. Trả lời câu hỏi: *"Hệ thống kiếm được nhiều tiền nhất vào thứ mấy trong tuần? Khung giờ nào có tỷ lệ Win cao nhất?"*
   * **Trade Scatter Plot:** Biểu đồ phân tán (Scatter) đo lường mối tương quan giữa Thời gian giữ lệnh (Hold Duration) và Lợi nhuận (PnL). Giúp phát hiện lỗi "gồng lỗ quá lâu" hoặc "chốt lời quá sớm".
+  * ![z7489219273821_ab978c90153b87157066adae83bafeee](https://github.com/user-attachments/assets/7849dd8a-7e73-414c-96eb-da0d35f4af03)
+
 
 -----
 
