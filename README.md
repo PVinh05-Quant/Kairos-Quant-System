@@ -2,7 +2,7 @@
 
 **End-to-End Data Analytics System for Financial Market Analysis**
 
-## 🚀 Project Highlights
+## 🚀 Điểm nổi bật của dự án (Project Highlights)
 
 - Xây dựng hệ thống phân tích dữ liệu giao dịch end-to-end từ nhiều nguồn (Binance, OKX, Bybit)  
 - Xử lý và phân tích dữ liệu thị trường quy mô lớn bằng kỹ thuật vectorization (Pandas/Polars)  
@@ -10,14 +10,14 @@
 - Ứng dụng Machine Learning để phân loại trạng thái thị trường (trend, breakout, mean-reversion)  
 - Tối ưu quy trình phân tích dữ liệu, giúp nâng cao tốc độ xử lý và hỗ trợ ra quyết định hiệu quả hơn  
 
-## 📊 Key Results
+## 📊 Kết quả đạt được (Key Results)
 
 - Xử lý dữ liệu lịch sử quy mô lớn (hàng triệu dòng) trên nhiều năm  
 - Tăng tốc backtesting bằng phương pháp vector hóa, nhanh hơn đáng kể so với xử lý tuần tự (loop)  
 - Hỗ trợ phân tích đa khung thời gian (từ 1 phút đến 1 ngày)  
 - Tự động hóa toàn bộ quy trình từ thu thập, xử lý đến phân tích dữ liệu  
 
-## 📖 MỤC LỤC TỔNG QUAN
+## 📖 Mục lục tổng quan (Table of Contents)
 
 1. [Tầm nhìn & Triết lý hệ thống (Vision & Philosophy)](#1)
 2. [Giới thiệu chung (Overview)](#2)
