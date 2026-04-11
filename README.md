@@ -1,8 +1,21 @@
 # 👨🏻‍🦯‍➡️ KAIROS QUANT SYSTEM
 
-**HỆ SINH THÁI GIAO DỊCH ĐỊNH LƯỢNG TỰ ĐỘNG & PHÂN TÍCH DỮ LIỆU CHUYÊN SÂU CHO THỊ TRƯỜNG CRYPTOCURRENCY**
+**End-to-End Data Analytics System for Financial Market Analysis**
 
------
+## 🚀 Project Highlights
+
+- Xây dựng hệ thống phân tích dữ liệu giao dịch end-to-end từ nhiều nguồn (Binance, OKX, Bybit)  
+- Xử lý và phân tích dữ liệu thị trường quy mô lớn bằng kỹ thuật vectorization (Pandas/Polars)  
+- Phát triển hệ thống backtesting phục vụ đánh giá và tối ưu chiến lược giao dịch  
+- Ứng dụng Machine Learning để phân loại trạng thái thị trường (trend, breakout, mean-reversion)  
+- Tối ưu quy trình phân tích dữ liệu, giúp nâng cao tốc độ xử lý và hỗ trợ ra quyết định hiệu quả hơn  
+
+## 📊 Key Results
+
+- Xử lý dữ liệu lịch sử quy mô lớn (hàng triệu dòng) trên nhiều năm  
+- Tăng tốc backtesting bằng phương pháp vector hóa, nhanh hơn đáng kể so với xử lý tuần tự (loop)  
+- Hỗ trợ phân tích đa khung thời gian (từ 1 phút đến 1 ngày)  
+- Tự động hóa toàn bộ quy trình từ thu thập, xử lý đến phân tích dữ liệu  
 
 ## 📖 MỤC LỤC TỔNG QUAN
 
@@ -285,6 +298,7 @@ KAIROS_QUANT_SYSTEM_v2.0/
 ├── hien_thi/                   # KHỐI GIAO DIỆN & MONITORING
 │   ├── dashboard_realtime.py   # Bảng điều khiển giám sát lệnh và thị trường Live
 │   ├── dashboard_backtest.py   # Trực quan hóa kết quả phân tích lịch sử
+    ├── dashboard_vectorized.py # Trực quan hóa điểm vào lệnh và thoát lệnh của chiến lược trên biểu đồ nến    
 │   └── dashboard_demo.py       # Giám sát hiệu quả giao dịch thử nghiệm
 │
 ├── du_lieu/                    # KHO LƯU TRỮ DỮ LIỆU HỆ THỐNG
