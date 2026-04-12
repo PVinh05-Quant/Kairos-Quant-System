@@ -302,7 +302,7 @@ KAIROS_QUANT_SYSTEM_v2.0/
 ├── hien_thi/                   # KHỐI GIAO DIỆN & MONITORING
 │   ├── dashboard_realtime.py   # Bảng điều khiển giám sát lệnh và thị trường Live
 │   ├── dashboard_backtest.py   # Trực quan hóa kết quả phân tích lịch sử
-    ├── dashboard_vectorized.py # Trực quan hóa điểm vào lệnh và thoát lệnh của chiến lược trên biểu đồ nến    
+│   ├── dashboard_vectorized.py # Trực quan hóa điểm vào lệnh và thoát lệnh của chiến lược trên biểu đồ nến    
 │   └── dashboard_demo.py       # Giám sát hiệu quả giao dịch thử nghiệm
 │
 ├── du_lieu/                    # KHO LƯU TRỮ DỮ LIỆU HỆ THỐNG
