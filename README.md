@@ -1,14 +1,15 @@
 # 👨🏻‍🦯‍➡️ KAIROS QUANT SYSTEM
 
-**End-to-End Data Analytics System for Financial Market Analysis**
+**End-to-End Data Analytics System for Strategy Optimization in Financial Markets**
 
 ## 🚀 Điểm nổi bật của dự án (Project Highlights)
 
-- Xây dựng hệ thống phân tích dữ liệu giao dịch end-to-end từ nhiều nguồn (Binance, OKX, Bybit)  
-- Xử lý và phân tích dữ liệu thị trường quy mô lớn bằng kỹ thuật vectorization (Pandas/Polars)  
-- Phát triển hệ thống backtesting phục vụ đánh giá và tối ưu chiến lược giao dịch
-- Ứng dụng Machine Learning để phân loại trạng thái thị trường (trend, breakout, mean-reversion)  
-- Tối ưu quy trình phân tích dữ liệu, giúp nâng cao tốc độ xử lý và hỗ trợ ra quyết định hiệu quả hơn
+- Xây dựng hệ thống phân tích dữ liệu giao dịch từ nhiều nguồn (Binance, OKX, Bybit) nhằm hỗ trợ ra quyết định dựa trên dữ liệu
+- Thiết kế pipeline ETL tự động thu thập, xử lý và chuẩn hóa dữ liệu đa khung thời gian (1m–1d)
+- Phân tích dữ liệu lịch sử quy mô lớn (hàng triệu dòng) để xác định các pattern thị trường (trend, breakout, mean-reversion)
+- Phát triển hệ thống backtesting để đánh giá hiệu suất và so sánh các chiến lược giao dịch
+- Ứng dụng Machine Learning để phân loại trạng thái thị trường và hỗ trợ cải thiện chất lượng tín hiệu
+- Trực quan hóa dữ liệu và hiệu suất thông qua dashboard phục vụ phân tích và ra quyết định.
  
 ### 📊 Minh họa Backtesting
 
