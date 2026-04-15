@@ -1,6 +1,4 @@
-# 👨🏻‍🦯‍➡️ KAIROS QUANT SYSTEM
-
-> **End-to-End Data Analytics System for Strategy Optimization in Financial Markets**
+![Uploading image.png…]()
 
 -----
 
@@ -18,13 +16,6 @@
 ### 📊 Minh họa Backtesting
 
 ![$RV424Z6](https://github.com/user-attachments/assets/4883c4f4-e1ca-4e34-b806-220ae38faccc)
-
-| Thông số (Metrics) | Mô tả chi tiết |
-| :--- | :--- |
-| **Data Source** | Binance, OKX, Bybit (Historical Data) |
-| **Timeframes** | Multi-timeframe (1m, 5m, 15m, 1h, 1d) |
-| **Analysis** | Market Patterns & ML Classification |
-| **Visualization** | Interactive Performance Dashboard |
 
 -----
 
