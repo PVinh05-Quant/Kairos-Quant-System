@@ -400,7 +400,7 @@ Với vai trò là người thiết kế hệ thống (Kiến trúc sư), địn
 
 ⚠️ **QUAN TRỌNG:**
 
-1.  Thị trường Cryptocurrency rủi ro cực kỳ cao. Bot KAIROS phân tích dựa trên Xác suất thống kê (Statistical Probability) dựa trên dữ liệu quá khứ, **KHÔNG có khả năng dự đoán tương lai chính xác 100%**. Lợi nhuận trong quá khứ không đảm bảo cho tương lai.
+1.  Thị trường Cryptocurrency rủi ro cực kỳ cao. KAIROS phân tích dựa trên Xác suất thống kê (Statistical Probability) dựa trên dữ liệu quá khứ, **KHÔNG có khả năng dự đoán tương lai chính xác 100%**. Lợi nhuận trong quá khứ không đảm bảo cho tương lai.
 2.  **System Bug:** Mặc dù đã được kiểm thử (Unit test/Integration test), phần mềm vẫn có thể tồn tại lỗi không lường trước (Bug), hoặc rủi ro về độ trễ mạng lưới, lỗi từ API của Sàn giao dịch.
 3.  Người dùng hoàn toàn chịu trách nhiệm cho các quyết định cấu hình vốn, đòn bẩy và API Keys của mình. Tác giả không chịu trách nhiệm cho bất kỳ tổn thất tài chính nào phát sinh trong quá trình sử dụng hệ thống.
 
