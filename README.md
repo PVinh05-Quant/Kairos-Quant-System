@@ -17,8 +17,7 @@
 
 ### 📊 Minh họa Backtesting
 
-> [\!TIP]
-> *Dưới đây là kết quả mô phỏng hiệu suất chiến lược dựa trên dữ liệu lịch sử thực tế.*
+![$RV424Z6](https://github.com/user-attachments/assets/4883c4f4-e1ca-4e34-b806-220ae38faccc)
 
 | Thông số (Metrics) | Mô tả chi tiết |
 | :--- | :--- |
@@ -34,10 +33,6 @@
 `Python` • `Pandas` • `Scikit-Learn` • `ETL Pipeline` • `Backtesting` • `Quant Analysis`
 
 -----
-
-
-![$RV424Z6](https://github.com/user-attachments/assets/4883c4f4-e1ca-4e34-b806-220ae38faccc)
-
 
 ## 📊 Kết quả đạt được (Key Results)
 
