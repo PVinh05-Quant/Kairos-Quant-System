@@ -1,5 +1,16 @@
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/082d10d0-eaa3-4ecf-98df-e53af1c13ab7" />
+<div align="center">
+ 
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/5a1b5bcf-e6bb-4d92-a4a7-0c55697ba30e" />
 
+# KAIROS QUANT SYSTEM
+### **End-to-End Data Analytics System for Strategy Optimization in Financial Markets**
+
+[![Python](https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Market](https://img.shields.io/badge/Market-Crypto-orange?style=for-the-badge)](https://www.binance.com/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+<div align="left">
+ 
 -----
 
 ### 🚀 Điểm nổi bật của dự án (Project Highlights)
