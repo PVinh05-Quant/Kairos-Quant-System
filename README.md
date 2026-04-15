@@ -9,6 +9,8 @@
 [![Market](https://img.shields.io/badge/Market-Crypto-orange?style=for-the-badge)](https://www.binance.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
+`Python` • `Pandas` • `Polars` • `Scikit-Learn` • `ETL Pipeline` • `Backtesting` • `Quant Analysis`
+
 <div align="left">
  
 -----
@@ -27,12 +29,6 @@
 ### 📊 Minh họa Backtesting
 
 ![$RV424Z6](https://github.com/user-attachments/assets/4883c4f4-e1ca-4e34-b806-220ae38faccc)
-
------
-
-### 🛠 Tech Stack (Tùy chọn thêm)
-
-`Python` • `Pandas` • `Scikit-Learn` • `ETL Pipeline` • `Backtesting` • `Quant Analysis`
 
 -----
 
