@@ -35,11 +35,6 @@
 
 -----
 
-**Mẹo nhỏ cho bạn:** - Bạn có thể chèn hình ảnh kết quả vào ngay dưới dòng `Minh họa Backtesting` bằng cú pháp: `![Mô tả ảnh](link-ảnh.png)`.
-
-  - Các khối `> [!TIP]` là tính năng mới của GitHub giúp làm nổi bật ghi chú rất đẹp mắt.
- 
-### 📊 Minh họa Backtesting
 
 ![$RV424Z6](https://github.com/user-attachments/assets/4883c4f4-e1ca-4e34-b806-220ae38faccc)
 
