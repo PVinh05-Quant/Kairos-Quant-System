@@ -1,15 +1,43 @@
 # 👨🏻‍🦯‍➡️ KAIROS QUANT SYSTEM
 
-**End-to-End Data Analytics System for Strategy Optimization in Financial Markets**
+> **End-to-End Data Analytics System for Strategy Optimization in Financial Markets**
 
-## 🚀 Điểm nổi bật của dự án (Project Highlights)
+-----
 
-- Xây dựng hệ thống phân tích dữ liệu giao dịch từ nhiều nguồn (Binance, OKX, Bybit) nhằm hỗ trợ ra quyết định dựa trên dữ liệu
-- Thiết kế pipeline ETL tự động thu thập, xử lý và chuẩn hóa dữ liệu đa khung thời gian (1m–1d)
-- Phân tích dữ liệu lịch sử quy mô lớn (hàng triệu dòng) để xác định các pattern thị trường (trend, breakout, mean-reversion)
-- Phát triển hệ thống backtesting để đánh giá hiệu suất và so sánh các chiến lược giao dịch
-- Ứng dụng Machine Learning để phân loại trạng thái thị trường và hỗ trợ cải thiện chất lượng tín hiệu
-- Trực quan hóa dữ liệu và hiệu suất thông qua dashboard phục vụ phân tích và ra quyết định.
+### 🚀 Điểm nổi bật của dự án (Project Highlights)
+
+  * **Xây dựng hệ thống phân tích dữ liệu:** Giao dịch từ nhiều nguồn (**Binance, OKX, Bybit**) nhằm hỗ trợ ra quyết định dựa trên dữ liệu.
+  * **Thiết kế pipeline ETL tự động:** Thu thập, xử lý và chuẩn hóa dữ liệu đa khung thời gian (**1m–1d**).
+  * **Phân tích dữ liệu lịch sử quy mô lớn:** Xử lý hàng triệu dòng dữ liệu để xác định các pattern thị trường (**trend, breakout, mean-reversion**).
+  * **Phát triển hệ thống backtesting:** Đánh giá hiệu suất và so sánh các chiến lược giao dịch một cách khách quan.
+  * **Ứng dụng Machine Learning:** Phân loại trạng thái thị trường và hỗ trợ cải thiện chất lượng tín hiệu.
+  * **Trực quan hóa dữ liệu:** Hiển thị hiệu suất thông qua dashboard phục vụ phân tích và ra quyết định chuyên sâu.
+
+-----
+
+### 📊 Minh họa Backtesting
+
+> [\!TIP]
+> *Dưới đây là kết quả mô phỏng hiệu suất chiến lược dựa trên dữ liệu lịch sử thực tế.*
+
+| Thông số (Metrics) | Mô tả chi tiết |
+| :--- | :--- |
+| **Data Source** | Binance, OKX, Bybit (Historical Data) |
+| **Timeframes** | Multi-timeframe (1m, 5m, 15m, 1h, 1d) |
+| **Analysis** | Market Patterns & ML Classification |
+| **Visualization** | Interactive Performance Dashboard |
+
+-----
+
+### 🛠 Tech Stack (Tùy chọn thêm)
+
+`Python` • `Pandas` • `Scikit-Learn` • `ETL Pipeline` • `Backtesting` • `Quant Analysis`
+
+-----
+
+**Mẹo nhỏ cho bạn:** - Bạn có thể chèn hình ảnh kết quả vào ngay dưới dòng `Minh họa Backtesting` bằng cú pháp: `![Mô tả ảnh](link-ảnh.png)`.
+
+  - Các khối `> [!TIP]` là tính năng mới của GitHub giúp làm nổi bật ghi chú rất đẹp mắt.
  
 ### 📊 Minh họa Backtesting
 
