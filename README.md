@@ -61,7 +61,7 @@
 
 ## 1. TẦM NHÌN & TRIẾT LÝ HỆ THỐNG (VISION & PHILOSOPHY)
 
-**KAIROS QUANT SYSTEM** không chỉ là một trading bot — mà là một **Hệ sinh thái giao dịch định lượng (Quantitative Trading Ecosystem)** được thiết kế để vận hành theo nguyên tắc **data-driven, xác suất và tự động hóa hoàn toàn**.
+**KAIROS QUANT SYSTEM** không chỉ là một trading bot — mà hướng đến một **Hệ sinh thái giao dịch định lượng (Quantitative Trading Ecosystem)** được thiết kế để vận hành theo nguyên tắc **data-driven, xác suất và tự động hóa hoàn toàn**.
 
 Tầm nhìn của hệ thống là xây dựng một **a systematic, data-driven decision engine designed to minimize emotional bias**, nơi mọi hành động đều được dẫn dắt bởi dữ liệu, mô hình thống kê và logic định lượng.
 
@@ -161,7 +161,7 @@ graph TD
 2.  **Lớp Chiến lược (`/chien_luoc`):** Bộ não logic chứa các công thức toán học và hệ thống chỉ báo kỹ thuật (TA indicators) như EMA, RSI, Bollinger Bands để xác định cấu trúc giá. Lớp này kết hợp các mô hình chiến lược vĩ mô, chỉ số tham lam và sợ hãi (Fear & Greed Index) cùng phân tích tâm lý thị trường để đưa ra quyết định giao dịch chính xác thay vì chỉ dựa vào công thức kỹ thuật thuần túy.
 
 3.  **Lớp Trí tuệ Nhân tạo (`/ml` - AI/ML Core Engine):** Đóng vai trò là trung tâm tri giác của hệ thống, được thiết kế theo cấu trúc mở (Extensible Framework) để làm nền tảng sẵn sàng cấy ghép đa dạng các mô hình Machine Learning trong tương lai (như mô hình dự báo giá, phát hiện dòng tiền Whale, hay NLP phân tích tin tức).
-    Trọng tâm hiện tại là mô hình Deep Learning sử dụng kiến trúc mạng Neural đa tầng (**TradingMLP**) kết hợp các khối **ResBlock** tiên tiến nhằm phân tích độ nhiễu và phân loại thị trường vào các trạng thái (Noise, Trend, Breakout...). Điểm sáng giá nhất của lớp này là cơ chế **tự tiến hóa (Self-learning)**: hệ thống liên tục ôn tập và tái huấn luyện (Fine-tuning) trọng số dựa trên kinh nghiệm từ nhật ký thực chiến `trading_memory.csv`, giúp AI tự động thích nghi khi cấu trúc thị trường thay đổi.
+    Trọng tâm hiện tại là mô hình Deep Learning sử dụng kiến trúc mạng Neural đa tầng (**TradingMLP**) kết hợp các khối **ResBlock** tiên tiến nhằm phân tích độ nhiễu và phân loại thị trường vào các trạng thái (Noise, Trend, Breakout...).
     *(Các công cụ xử lý dữ liệu như lọc nhiễu, cân bằng nhãn chỉ đóng vai trò là các tiện ích phụ trợ ẩn bên dưới để cung cấp dữ liệu sạch cho Core AI).*
 
 4.  **Lớp Thực thi (`/thuc_thi_lenh`):** Công cụ thực thi lệnh (Execution Engine) đảm bảo an toàn cho tài sản thông qua việc quản lý bảo mật API Keys, xử lý Nonce và tuân thủ giới hạn tần suất gọi lệnh (Rate-limits) của sàn. Lớp này chịu trách nhiệm tính toán Position Sizing, quản lý rủi ro danh mục và thực hiện các lệnh đóng/mở vị thế một cách tối ưu.
@@ -215,12 +215,6 @@ Hệ thống không cộng dồn một cách máy móc, mà sử dụng công th
 
   * **Hệ thống Điều hướng Chiến lược Động (Dynamic Strategy Routing):**
     AI đóng vai trò là "Người điều phối giao thông". Khi mô hình dự báo thị trường đang rơi vào pha "Noise" (Nhiễu loạn hỗn mang) hoặc "Squeeze" (Tích lũy), hệ thống sẽ tự động vô hiệu hóa (kill-switch) các module Trend Following và Breakout để triệt tiêu hoàn toàn rủi ro tín hiệu giả (False Breakout). Đồng thời, nó đánh thức và cấp vốn cho chiến lược Mean Reversion hoặc Scalping để khai thác các biên độ dao động hẹp.
-
-  * **Cơ chế Thầy - Trò & Tự tiến hóa (Trading Teacher & Self-Evolution Loop):**
-    Hệ thống không bao giờ dậm chân tại chỗ. KAIROS vận hành một vòng lặp phản hồi (Feedback Loop) liên tục:
-
-      * Thuật toán giám sát mọi lệnh thắng/thua (PnL) và đối chiếu với nhãn dữ liệu từ "Hệ thống chuyên gia" (Trading Teacher).
-      * Từ những sai lầm (Losses) trong quá khứ, AI tự động "ôn bài" (thông qua hàm `tu_dong_hoc_tu_log`) để tinh chỉnh lại trọng số mạng Neural (Weights Fine-tuning) lưu trong `trading_memory.csv`.
 
   * **Sẵn sàng Mở rộng (Future-Proof Extensibility):**
     Lớp ML hiện tại chỉ là nền móng. Cấu trúc tách biệt này cho phép KAIROS dễ dàng mở rộng thêm các Module AI khác trong tương lai mà không làm vỡ logic cốt lõi, chẳng hạn như:
